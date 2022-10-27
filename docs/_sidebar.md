@@ -1,12 +1,17 @@
 <!-- 侧边栏 docs/_sidebar.md -->
-- Team introduce
+
 - Daily homework
   - [1. PM]()
-    - [how to build web](class/1pm/1pm-web.md)
-    - introduce team
+    - [how to build web](https://www.nexmaker.com/doc/1projectmanage/webmethod.html)
+    - [introduce team](AboutUs/TeamIntro.md)
     - introduce finial project
-  - [2. arduino basic]()
-  - [3. CAD]()
+  - [2. Arduino basic](https://www.arduino.cc/)
+    - [ What is Arduino ](https://www.arduino.cc/en/Guide/Introduction/)
+    - [ ARDUINO BOARD]()
+    - [ Arduino Software]()
+  - [3. Autodesk]()
+   - [CAD](Cad/IntroductionofCad.md)
+   - [Fusion](Fusion/Fusion.md)
   - [4. 3D printing]()
 - Final project
   - topic
@@ -14,5 +19,5 @@
   - market
   - how to design 
   - how to make
-  - SDGs  
-  - hi
+  - SDGs
+- Contuct US  
