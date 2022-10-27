@@ -3,8 +3,8 @@
 - Daily homework
   - [1. PM]()
     - [how to build web](https://www.nexmaker.com/doc/1projectmanage/webmethod.html)
-    - [introduce team](AboutUs/TeamIntro.md)
-    - introduce finial project
+  - [Who we are](AboutUs/TeamIntro.md)
+     - [Our Vision]()
   - [2. Arduino basic](https://www.arduino.cc/)
     - [ What is Arduino ](https://www.arduino.cc/en/Guide/Introduction/)
     - [ ARDUINO BOARD]()
