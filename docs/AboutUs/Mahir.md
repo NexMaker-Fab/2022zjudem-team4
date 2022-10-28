@@ -1,5 +1,5 @@
 
- ![MasterHead](../img/IMG_6278.JPG "ABDIAZIZ OMAR HASSAN"){ width=50% }
+ ![MasterHead](../img/IMG_6278.JPG "ABDIAZIZ OMAR HASSAN")
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../img/BOT.jPG">
