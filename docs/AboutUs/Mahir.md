@@ -1,5 +1,5 @@
 
- ![<img src="../img/IMG_6278.JPG" width="100" ](../img/IMG_6278.JPG "ABDIAZIZ OMAR HASSAN")
+ ![<img src="../img/IMG_6278.JPG" hight="50" ](../img/IMG_6278.JPG "ABDIAZIZ OMAR HASSAN")
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../img/BOT.jPG">
