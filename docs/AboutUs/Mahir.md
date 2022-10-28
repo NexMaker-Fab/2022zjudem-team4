@@ -1,5 +1,5 @@
 
-![MasterHead](../img/IMG_6278.JPG " ABDIAZIZ OMAR HASSAN"  "width = 50px ")
+![MasterHead](../img/IMG_6278.JPG "ABDIAZIZ OMAR HASSAN")
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../img/BOT.jPG">
   <source media="(prefers-color-scheme: light)" srcset="../img/BOT.JPG">
@@ -13,8 +13,7 @@ He is interested in Engineering and projects such as Data Science, Industrial En
 
 ## My Projects ##
 
-ABD
-===
+
 > My Project  see more details here
 
 ![](../img/logo.png)
