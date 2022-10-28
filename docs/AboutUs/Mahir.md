@@ -17,7 +17,7 @@ He is interested in Engineering and projects such as Data Science, Industrial En
 
 > My Project  see more details here  
 
-![<img src="../img/BOT.JPG" width="100"  ](../img/BOT.JPG "Line Follower Bot")
+![<img src="../img/BOT.JPG" width="500"  ](../img/BOT.JPG "Line Follower Bot")
 
 > My Fusion 
 
