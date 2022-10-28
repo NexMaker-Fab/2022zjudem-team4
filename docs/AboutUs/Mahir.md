@@ -1,6 +1,6 @@
 
-<!-- ![MasterHead](../img/IMG_6278.JPG "ABDIAZIZ OMAR HASSAN")-->
-<img scr = "../img/IMG_6278.JPG " alt="Abdiaziz" width="50"/>
+ ![MasterHead](../img/IMG_6278.JPG "ABDIAZIZ OMAR HASSAN"){ width=50% }
+
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../img/BOT.jPG">
   <source media="(prefers-color-scheme: light)" srcset="../img/BOT.JPG">
