@@ -1,6 +1,6 @@
 <h2 align="center"> Hello :wave:,  Wellcome my page &emsp; &emsp; &emsp;مرحبابكم </h2> 
 <!-- <h1 align="center"> مرحبابكم pre></h1>-->
-<h5 align="right"><p>Mohamed Qaid</p><p>Tel No. 00967-771982385</p> 
+<h5 align="right"><p>Mohamed Khaled</p><p>Tel No. 00967-771982385</p> 
 <p>Email:<a href = "mohammed2alhomidi@gmail.com"> mohammed2alhomidi@gmail.com</a> </p> <p align = "right">Location: Taiz – Yemen </h3>
 <img align="right" alt="Qaid" width="300" src="img/qiad.jpg">
 
@@ -29,4 +29,4 @@
  <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e438b6df135e4543ec0?mode=embed" width="300"  height="280" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
  
 <h6><p align = "center"> Sixth Project</p></h6>
- <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43151843a200cf47dd?mode=embed" width="300" height="280" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="1"></iframe>
+ <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43151843a200cf47dd?mode=embed" width="300" height="280" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
