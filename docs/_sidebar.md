@@ -1,7 +1,7 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 
 - [Who we are](AboutUs/TeamIntro.md)
-   - [Our Vision]()
+   - [Our Vision](AboutUS/Vision.md)
 - Daily homework
    - [1. PM]()
      - [how to build web](https://www.nexmaker.com/doc/1projectmanage/webmethod.html)
