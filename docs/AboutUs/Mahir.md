@@ -27,9 +27,19 @@ He is interested in Engineering and projects such as Data Science, Industrial En
 
 > My Project  see more details here  
 
-<img style="float: left;" width="300" src="../img/BOT.JPG">
+<img style="float: right;" width="300" src="../img/BOT.JPG">
 <br/>
- <p style='text-align: center;'>
+Line Follower Robot (LFR) is a basic self-guided robot that follows a drawn line on the ground to identify a dark line on a white surface or a white line on a dark surface.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style='text-align: left;'>
 My Fusion 
 </p>
 
