@@ -27,7 +27,7 @@ i am interested in Engineering and projects such as High rise structures, bridge
 
 > My Project  see more details here  
 
-<img style="float: left;" width="300" src="../img/WeChat%20Image_20221104234651.jpg">
+<img style="float: left;" width="300" src="img/WeChat%20Image_20221104234651.jpg">
 <br/>
 This will be one of the most geographically located super structure with a 360 degree view of the entire city from all corners and angles at the top most floor. Designed to over come strong winds from the sea side and luminate glowing light from the sun built with the latest state of the art technology (pre stressed slab/beam casting) 
 <br>
@@ -43,7 +43,7 @@ This will be one of the most geographically located super structure with a 360 d
 <br>
 <br>
 <br>
-<img style="float: right;" width="300" src="../img/WeChat%20Image_202211042346511.jpg">
+<img style="float: right;" width="300" src="img/WeChat%20Image_202211042346511.jpg">
 built with tons of fresh concrete and steal ,this unique structure consists of 25 floors, 4 basements, swimming pools on the roof top, suspended tower bridge connecting the hotel tower and apartment side. hilpard, presidential suits, bullet/sound/heavy artilery/ earth/typhons, tsuanami proof and bankers.
 <br>
 <br>
@@ -65,7 +65,7 @@ built with tons of fresh concrete and steal ,this unique structure consists of 2
 <br>
 <br>
 <br>
-<img style="float: left;" width="300" src="../img/WeChat%20Image_202211042346515.jpg">
+<img style="float: left;" width="300" src="img/WeChat%20Image_202211042346515.jpg">
 designed to siut the guests needs and safety giving that home away from home feel and comfort as you enjoy your visit/ stay in the city.
 <br>
 <br>
