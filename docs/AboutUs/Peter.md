@@ -9,9 +9,9 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="../img/IMG_6278.JPG">
 </picture> -->
 <p style='text-align: justify;'>
- I am Walusimbi Peter a Structural engineer with a B.sc Civil engineering <br> from South China  University of Technology Guangzhou China,, also a graduate of Columbia University <br> in the city of New York in Construction Project Management, Architecture, Network <br>and Computer Engineering, at MUK I am Curently  doing Professional Master <br> Industrial Design Engineering at Zhejiang University, i am a designer, Researcher/Engineer.<br>
+ I am Walusimbi Peter a Structural engineer with a B.sc Civil engineering <br> from South China  University of Technology Guangzhou China,, also a graduate of Columbia University <br> in the city of New York in Construction Project Management, Architecture, Network <br>and Computer Engineering, at MUK I am Curently  doing Professional Master Industrial<br>Design Engineering at Zhejiang University, i am a designer, Researcher/Engineer.<br>
  i have taken part in many PKPM, SAP2000, CAD, REVIT design/construction and<br> innovative projects at Sirpta Group.<br>
-i am interested in Engineering and projects such as High rise structures, bridges, <br>surveying, turnels,roads, BIM (Building information modelling), hydraulic engineering design,<br> project support Industrial Engineering and the Internet of Things (IoT/IOE). </p>
+i am interested in Engineering and projects such as High rise structures, bridges, <br>surveying, turnels,roads, BIM (Building information modelling), hydraulic engineering design, project support Industrial Engineering and the Internet of Things (IoT/IOE). </p>
 
 - 👋 Hi, I’m @Sirpta
 - 👀 I’m interested in Designing AI
