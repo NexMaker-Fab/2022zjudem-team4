@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://upload-assets.vice.com/files/2016/03/12/14578219652016_01_23_cloud_computing.gif">
 
 <p style= 'text-align: justify;'>
-I am Ugwueke Chidubem Emmanuel my friends call me augy <br> i am from Nigeria I did my BSc in South China University of Technology Civil Engineering <br> I am currently in china Zhejiang University studying industrial design engineering</p>
+My name is Ugwueke Chidubem Emmanuel my friends call me *Augy* <br> i am from Nigeria obtained my BSc Civil engineering in South China University of Technology  <br> I am currently in china Zhejiang University studying industrial design engineering</p>
 
 
 
