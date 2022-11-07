@@ -4,7 +4,7 @@
 <h2 align="center"><p> Augy here</h2> 
 <h3 align="center">An industrial design engr former civil engr🤌
 <h3 align="left"><p>I can be reached here
-</p><p>:email: <a href= "augygarry@hotmail.com"> augygarry@hotmail.com
+</p><p>:email: </a> href= "augygarry@hotmail.com"> augygarry@hotmail.com
 <p style= 'text-align: justify;'>
 I am Ugwueke Chidubem Emmanuel my friends call me augy <br> i am from Nigeria I did my BSc in South China University of Technology Civil Engineering <br> I am currently in china Zhejiang University studying industrial design engineering</p>
 
