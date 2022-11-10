@@ -72,7 +72,6 @@ The hassle of arriving at the checking counter to be told that the weight exceed
 <h3 style="color:black;">COURSE PRACTICE</h3>
 
 
-
 <hr>
 
 <h3 style="color:black;">HTML links</h3>
