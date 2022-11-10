@@ -1,7 +1,5 @@
-<html lang="en-US">
-<body>
-
-<pre>	<h1 style="background-color:lightcoral";>
+<h1 align = "center"Andry Eric</h1>
+<h1 style="background-color:lightcoral";>
 
    	                		My Project
 
@@ -72,6 +70,7 @@ The hassle of arriving at the checking counter to be told that the weight exceed
 <h3 style="color:black;">COURSE PRACTICE</h3>
 
 
+
 <hr>
 
 <h3 style="color:black;">HTML links</h3>
@@ -82,5 +81,4 @@ The hassle of arriving at the checking counter to be told that the weight exceed
 
 <img src="/Users/rabarisonandry/Desktop/images for HTML coding/schedule.png" alt="assessment 1 for D.E" width="800" height="400">
 
-</body>
-</html>
+

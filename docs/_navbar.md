@@ -9,6 +9,7 @@
   - [OMAR KHALED](AboutUs/khaled.md)
   - [MOHAMMED QAID](AboutUs/qaid.md)
   - [WAEL MOHAMMED](AboutUs/wael.md)
+  - [ANDRY ERIC](AboutUS/Eric.md)
 - [:us:]()
   - CN:cn:
   - ع:saudi_arabia:

@@ -20,4 +20,4 @@
    - how to design 
    - how to make
    - SDGs
-- Contuct US  
+- Contact US  
