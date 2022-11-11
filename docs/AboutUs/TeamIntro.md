@@ -107,4 +107,16 @@
     
 </p>
 
+<img style="float: left;" width="150" src="img/Eric-Team4.Img.jpg">
+
+[RABARISON ANDRY ERIC A.](AboutUs/andry.md)
+<p style="text-align:left;">
+     <b>Zhejiang University </b><br>
+    <span style="color:brown;">
+    Digital Media Designer<br>
+     Sep 2022 - Present <br>
+    </span>
+    B.sc Machanical Engineer |
+
+  </p>  
 
