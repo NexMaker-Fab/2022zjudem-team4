@@ -1,12 +1,12 @@
 
 <h1 align = "center"> ANDRY ERIC </h1>
 
-[![MasterHead](https://th.bing.com/th/id/R.c752e4dbb8cd705ad9a6bdb62c2d29d2?rik=MRPyMhZpxiFDiQ&pid=ImgRaw&r=0)](https://rishavchanda.io)
+![Alt text](../img/AndryEric-moodboard.png)
 
-<h1 align="center">Hi 👋, I'm Andry</h1>
-<h3 align="center">A Github beginner, former Digital Media Design student</h3>
+<h1 align="center">Hello, I'm Andry Eric</h1>
+<h2 align="center">A Github beginner, former Digital Media Design student</h2>
+<h3 align="center">An image is worth a thousand words </h3>
 
-<img align="right" alt="Coding" width="300" src="https://upload-assets.vice.com/files/2016/03/12/14578219652016_01_23_cloud_computing.gif">
 
 
 - 🌱 I’m currently studying **Industrial Design**

@@ -116,7 +116,7 @@
     Digital Media Designer<br>
      Sep 2022 - Present <br>
     </span>
-    B.sc Machanical Engineer |
+    Designer, Aviation Professional|
 
   </p>  
 
