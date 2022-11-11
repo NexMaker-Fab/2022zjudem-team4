@@ -109,7 +109,7 @@
 
 <img style="float: left;" width="150" src="img/Eric-Team4.Img.jpg">
 
-[RABARISON ANDRY ERIC A.](AboutUs/andry.md)
+[RABARISON ANDRY ERIC A](AboutUs/Andry.md)
 <p style="text-align:left;">
      <b>Zhejiang University </b><br>
     <span style="color:brown;">
