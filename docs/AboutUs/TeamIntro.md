@@ -107,7 +107,7 @@
     
 </p>
 
-<img style="float: left;" width="150" src="img/Eric-Team4.Img.jpg">
+<img style="float: left;" width="150" src="img/Eric-Team4.png">
 
 [RABARISON ANDRY ERIC A](AboutUs/Andry.md)
 <p style="text-align:left;">
