@@ -1,12 +1,11 @@
 
-<h1 align = "center"> ANDRY ERIC </h1>
+<h1 align = "center"> Hello I am Andry Eric </h1>
 
-![Alt text](../img/AndryEric-moodboard.png)
 
-<h1 align="center">Hello, I'm Andry Eric</h1>
 <h2 align="center">A Github beginner, former Digital Media Design student</h2>
 <h3 align="center">An image is worth a thousand words </h3>
 
+![Alt text](../img/AndryEric-moodboard.png)
 
 
 - 🌱 I’m currently studying **Industrial Design**
