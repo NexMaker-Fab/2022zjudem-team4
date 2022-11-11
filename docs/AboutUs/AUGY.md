@@ -1,8 +1,4 @@
 <h2 align="left"> HI 👋</h2>
-<h2 align="center"><p> Augy here</p></h2> 
-<h3 align="center">An industrial design engr former civil engr🤌</h3>
-<h3 align="left"><p>I can be reached here</p></h3>
-<img align="right" width="300" src="https://www.kindpng.com/picc/m/726-7262279_github-icon-vector-circle-hd-png-download.png" alt="Github Icon Vector - Circle, HD Png Download@kindpng.com">
 <h2 align="center"><p> Augy here </p></h2> 
 <h3 align="center">An industrial design engr former civil engr🤌 </h3>
 <h3 align="left"><p>I can be reached here </p> </h3>
