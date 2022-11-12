@@ -1,0 +1,16 @@
+<!-- 侧边栏 docs/_navbar.md -->
+- [Home]()
+- [About US]()
+  - [AUGY](AboutUs/AUGY.md)
+  - [PETER](AboutUs/Peter.md)
+  - [Mahir](AboutUs/Mahir.md)
+  - [WIN KEE](AboutUs/Winke.md)
+  - [Abdirahim](AboutUs/Hirsi.md)
+  - [OMAR KHALED](AboutUs/khaled.md)
+  - [MOHAMMED QAID](AboutUs/qaid.md)
+  - [WAEL MOHAMMED](AboutUs/wael.md)
+  - [ANDRY ERIC](AboutUS/Andry.md)
+- [中文:cn:](CN/)
+  - [:us:]()
+  - ع:saudi_arabia:
+  

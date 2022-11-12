@@ -10,6 +10,9 @@
   <!-- <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="sidecss.css"> -->
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+<meta name="theme-color" content="#ffffff">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
   <div id="app"></div>
@@ -20,6 +23,9 @@
       repo: '',
       loadSidebar: true,  //prepare for sidebar
       loadNavbar: true,   //prepare for navbar
+      mergeNavbar: true,
+      
+      executeScript: true,
       search: 'auto', // default
 
       // complete configuration parameters
@@ -32,10 +38,11 @@
         depth: 6,
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
      },
-       alias: {
-       '/.*/_sidebar.md': '/_sidebar.md',
-    },
-    
+    //    alias: {
+    //    '/.*/_sidebar.md': '/_sidebar.md',
+    // },
+    // sets homepage
+    homepage: 'home.md',
      subMaxLevel: 3,
      sidebarDisplayLevel: 1, // set sidebar display level
 
