@@ -1,10 +1,10 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 
-- [Who we are](AboutUs/TeamIntro.md)
-   - [Our Vision](AboutUS/Vision.md)
-- Daily homework
-   - [1. PM]()
-     - [how to build web](https://www.nexmaker.com/doc/1projectmanage/webmethod.html)
++ [Who we are](AboutUs/TeamIntro.md)
+   + [OUR VISION](AboutUS/Vision.md)
+- **Daily Homework**
+   - [1. WEB]()
+     - [How to Build web](https://www.nexmaker.com/doc/1projectmanage/webmethod.html)
    - [2. Arduino basic](https://www.arduino.cc/)
      - [ What is Arduino ](https://www.arduino.cc/en/Guide/Introduction/)
      - [ARDUINO BOARD]()

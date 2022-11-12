@@ -1,5 +1,4 @@
-
->    ### Here our Team Members Profile
+<h1 align="center"> Here our Team Members Profile </h1>
 <h2 align ="Center"> MEET <br> THE TEAM </h2>
 <img style="float: left;" width="150" src="img/new.png">
 
@@ -109,7 +108,7 @@
 
 <img style="float: left;" width="150" src="img/Eric-Team4.png">
 
-[RABARISON ANDRY ERIC A](AboutUs/Andry.md)
+[RABARISON ANDRY ERIC A](AboutUS/Andry.md)
 <p style="text-align:left;">
      <b>Zhejiang University </b><br>
     <span style="color:brown;">
