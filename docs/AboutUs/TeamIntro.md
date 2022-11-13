@@ -141,10 +141,10 @@
                         <div class="pic">
                             <img src="img/new.png">
                             <ul class="social">
-                                <li><a href="#" class="fab fa-facebook">F</a></li>
-                                <li><a href="#" class="fab fa-google-plus">G+</a></li>
-                                <li><a href="#" class="fab fa-instagram">In</a></li>
-                                <li><a href="#" class="fab fa-linkedin">ln</a></li>
+                                <li><a href="#" class="fab fa-facebook"></a></li>
+                                <li><a href="#" class="fab fa-google-plus"></a></li>
+                                <li><a href="#" class="fab fa-instagram"></a></li>
+                                <li><a href="#" class="fab fa-linkedin"></a></li>
                             </ul>
                         </div>
                         <div class="team-content">
