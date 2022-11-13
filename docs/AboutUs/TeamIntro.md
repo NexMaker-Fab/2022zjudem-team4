@@ -157,7 +157,7 @@
                            </span>
                            B.sc Machanical Engineer | 2019
                           </p>
-                            <span class="post">B.sc Civil Engineer</span>
+                            <span class="post">3D Designer</span>
                         </div>
                     </div>
                 </div>
@@ -184,7 +184,7 @@
                            </span>
                           B.sc Machanical Engineer |
                           </p>
-                            <span class="post">B.sc Civil Engineer</span>
+                            <span class="post">Fusion Designer</span>
                         </div>
                     </div>
                 </div>
@@ -210,7 +210,7 @@
                           </span>
                           B.sc Machanical Engineer |
                           </p>
-                            <span class="post">B.sc Civil Engineer</span>
+                            <span class="post">B.sc Machanical Eng</span>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                           </span>
                           Designer, Aviation Professional|
                           </p> 
-                            <span class="post">B.sc Civil Engineer</span>
+                            <span class="post">Digital Media Designer</span>
                         </div>
                     </div>
                 </div>
