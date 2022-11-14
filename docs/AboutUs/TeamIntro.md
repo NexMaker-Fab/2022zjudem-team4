@@ -1,5 +1,6 @@
 <h1 align="center"> Here our Team Members Profile </h1>
 
+[AUGY](AboutUs/AUGY.md)
 <div class="demo">
         <div class="container">
             <div class="row text-center">
@@ -19,7 +20,7 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title"><a href="AboutUs/AUGY.MD">UGWUEKE CHIDUBEM EMMANUEL </a></h3>
+                            <h3 class="title">UGWUEKE CHIDUBEM EMMANUEL </h3>
                             <p style="text-align:left;">
                             <b>Zhejiang University </b><br>
                             <span style="color:brown;">
@@ -27,10 +28,15 @@
                             Sep 2022 - Present <br>
                             </span>
                                 </p>
-                            <span class="post">Group Leader</span>
+                            <span class="post">Group Leader</span>                       
+                             
+
+[VISIT](AboutUs/AUGY.md)                                                                               
                         </div>
                     </div>
                 </div>
+                
+
 
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
@@ -44,7 +50,7 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title"><a href="AboutUs/AUGY.MD">Abdiaziz Omar Hassan</a></h3>
+                            <h3 class="title">Abdiaziz Omar Hassan</h3>
                             <p style="text-align:center;">
                             <b>Zhejiang University </b><br>
                             MPS Industrial Design Engineer <br>
@@ -54,6 +60,9 @@
                          B.sc Telecommunication Engineer | 2018
                          </p>
                             <span class="post">Member</span>
+
+
+[VISIT](AboutUs/Mahir.md)
                         </div>
                     </div>
                 </div>
@@ -70,7 +79,7 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title"><a href="AboutUs/AUGY.MD">WALUSIMBI PETER </a></h3>
+                            <h3 class="title">WALUSIMBI PETER </h3>
                             <p style="text-align:left;">
                             <b>Zhejiang University </b><br>
                             <span style="color:brown;">
@@ -80,6 +89,9 @@
                             </span>
                                 </p>
                             <span class="post">Designer</span>
+
+
+[VISIT](AboutUs/Peter.md)
                         </div>
                     </div>
                 </div>
@@ -97,7 +109,7 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title"><a href="AboutUs/AUGY.MD">LIM WIN KEE </a></h3>
+                            <h3 class="title">LIM WIN KEE</h3>
                              <b>Zhejiang University </b><br>
                              <span style="color:brown;">
                           MPS Industrial Design Engineer <br>
@@ -106,6 +118,9 @@
                           B.sc Architecture Engineer | 
                            </p>
                             <span class="post">Project Designer</span>
+
+
+[VISIT](AboutUs/Winke.md)
                         </div>
                     </div>
                 </div>
@@ -122,7 +137,7 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title"><a href="AboutUs/AUGY.MD">OMAR KHALED QASEM AHMED AL-SHAQDARI </a></h3>
+                            <h3 class="title">OMAR KHALED QASEM AHMED AL-SHAQDARI </h3>
                             <p style="text-align:left;">
                             <b>Zhejiang University </b><br>
                           <span style="color:brown;">
@@ -132,6 +147,9 @@
                           B.sc Machanical Engineer |
                            </p>
                             <span class="post">B.sc Civil Engineer</span>
+
+
+[VISIT](AboutUs/khaled.md)
                         </div>
                     </div>
                 </div>
@@ -148,7 +166,7 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title"><a href="AboutUs/AUGY.MD">Abdirahim Omar Hirsi </a></h3>
+                            <h3 class="title">Abdirahim Omar Hirsi </h3>
                           <p style="text-align:left;">
                           <b>Zhejiang University </b><br>
                           <span style="color:brown;">
@@ -158,6 +176,9 @@
                            B.sc Machanical Engineer | 2019
                           </p>
                             <span class="post">3D Designer</span>
+
+
+[VISIT](AboutUs/Hirsi.md)
                         </div>
                     </div>
                 </div>
@@ -175,7 +196,7 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title"><a href="AboutUs/AUGY.MD">MOHAMMED ABDO HASAN QAID KHALED </a></h3>
+                            <h3 class="title">MOHAMMED ABDO HASAN QAID KHALED </h3>
                           <p style="text-align:left;">
                           <b>Zhejiang University </b><br>
                           <span style="color:brown;">
@@ -185,6 +206,9 @@
                           B.sc Machanical Engineer |
                           </p>
                             <span class="post">Fusion Designer</span>
+
+
+[VISIT](AboutUs/qaid.md)
                         </div>
                     </div>
                 </div>
@@ -201,7 +225,7 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                           <h3 class="title"><a href="AboutUs/AUGY.MD">MOHAMMED HAMOUD GHANEM </a></h3>
+                           <h3 class="title">MOHAMMED HAMOUD GHANEM </h3>
                           <p style="text-align:left;">
                           <b>Zhejiang University </b><br>
                            <span style="color:brown;">
@@ -211,6 +235,9 @@
                           B.sc Machanical Engineer |
                           </p>
                             <span class="post">B.sc Machanical Eng</span>
+
+
+[VISIT](AboutUs/weal.md)
                         </div>
                     </div>
                 </div>
@@ -227,7 +254,7 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h3 class="title"><a href="AboutUs/AUGY.MD">RABARISON ANDRY ERIC A </a></h3>
+                            <h3 class="title">RABARISON ANDRY ERIC A </a></h3>
                           <p style="text-align:left;">
                           <b>Zhejiang University </b><br>
                           <span style="color:brown;">
@@ -237,6 +264,10 @@
                           Designer, Aviation Professional|
                           </p> 
                             <span class="post">Digital Media Designer</span>
+
+
+
+[VISIT](AboutUs/Andry.md)
                         </div>
                     </div>
                 </div>
