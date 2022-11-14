@@ -1,4 +1,5 @@
-> <H2 align = "center"> We are Mavericks </h2>
+<H2 style= "text-align: center; font-size:8vw" > <span style="color:blue">We </span>are <span style="color:maroon" >Mavericks</span> </h2>
+
 
 We are group **Students**, here we share our **Homework** and our **Projects** that we have done it. you can Click [here](AboutUs/TeamIntro.md) see it our Team Members. Also Click Here to see our [Final Project](Finalproject.md)
 
