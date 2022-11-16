@@ -42,10 +42,10 @@
                         <div class="pic">
                             <img src="img/new.png">
                             <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
+                                <li><a href="https://www.linkedin.com/in/abdiaziz-omar-hassan-359745b4/" class="fab fa-facebook"></a></li>
                                 <li><a href="#" class="fab fa-google-plus"></a></li>
                                 <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
+                                <li><a href="https://www.facebook.com/bincmar" class="fab fa-linkedin"></a></li>
                             </ul>
                         </div>
                         <div class="team-content">
