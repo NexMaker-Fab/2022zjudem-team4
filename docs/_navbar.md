@@ -9,7 +9,7 @@
   - [OMAR KHALED](AboutUs/khaled.md)
   - [MOHAMMED QAID](AboutUs/qaid.md)
   - [WAEL MOHAMMED](AboutUs/wael.md)
-  - [ANDRY ERIC](AboutUS/Eric.md)
+  - [ANDRY ERIC](AboutUs/AN.md)
 
 - [:us:]()
     - [CN:cn:](CN/)
