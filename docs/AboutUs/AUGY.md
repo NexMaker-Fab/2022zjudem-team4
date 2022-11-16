@@ -2,7 +2,7 @@
 <h2 align="center"><p> Augy here </p></h2> 
 <h3 align="center">An industrial design engr former civil engr🤌 </h3>
 <h3 align="left"><p>I can be reached here </p> </h3>
-<img align="right" width="300" src="https://www.kindpng.com/picc/m/726-7262279_github-icon-vector-circle-hd-png-download.png" alt="Github Icon Vector - Circle, HD Png Download@kindpng.com">
+<img align="right" width="300" src="img/share.jpg">
 
 <p style= 'text-align: justify;'>
 My name is Ugwueke Chidubem Emmanuel my friends call me <b>Augy</b> <br> i am from Nigeria obtained my BSc Civil engineering in South China University of Technology  <br> I am currently in china Zhejiang University studying industrial design engineering</p>

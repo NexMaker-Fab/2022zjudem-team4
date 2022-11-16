@@ -10,7 +10,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="img/new.png">
+                            <img src="img/share.jpg">
                             <ul class="social">
                                 <li><a href="#" class="fab fa-facebook"></a></li>
                                 <li><a href="#" class="fab fa-google-plus"></a></li>
@@ -127,7 +127,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="img/new.png">
+                            <img src="img/khaled.jpg">
                             <ul class="social">
                                 <li><a href="#" class="fab fa-facebook"></a></li>
                                 <li><a href="#" class="fab fa-google-plus"></a></li>
@@ -156,7 +156,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="img/new.png">
+                            <img src="img/hirsi.jpg">
                             <ul class="social">
                                 <li><a href="#" class="fab fa-facebook"></a></li>
                                 <li><a href="#" class="fab fa-google-plus"></a></li>
