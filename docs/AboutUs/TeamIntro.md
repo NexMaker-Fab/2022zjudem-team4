@@ -30,7 +30,7 @@
                             <span class="post">Group Leader</span>                       
                              
 
-[VISIT](AboutUs/AUGY.md)                                                                               
+[MORE DETAILS](AboutUs/AUGY.md)                                                                               
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                             <span class="post">Member</span>
 
 
-[VISIT](AboutUs/Mahir.md)
+[MORE DETAILS](AboutUs/Mahir.md)
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="img/new.png">
+                            <img src="img/WeChat Image_202211042346512.jpg">
                             <ul class="social">
                                 <li><a href="#" class="fab fa-facebook"></a></li>
                                 <li><a href="#" class="fab fa-google-plus"></a></li>
@@ -87,10 +87,10 @@
                             Bs.c Civil Engineering
                             </span>
                                 </p>
-                            <span class="post">Designer</span>
+                            <span class="post">Structural Engineer</span>
 
 
-[VISIT](AboutUs/Peter.md)
+[MORE DETAILS](AboutUs/Peter.md)
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
                             <span class="post">Project Designer</span>
 
 
-[VISIT](AboutUs/Winke.md)
+[MORE DETAILS](AboutUs/Winke.md)
                         </div>
                     </div>
                 </div>
@@ -145,10 +145,10 @@
                           </span>
                           B.sc Machanical Engineer |
                            </p>
-                            <span class="post">B.sc Civil Engineer</span>
+                            <span class="post">Engineer</span>
 
 
-[VISIT](AboutUs/khaled.md)
+[MORE DETAILS](AboutUs/khaled.md)
                         </div>
                     </div>
                 </div>
@@ -177,7 +177,7 @@
                             <span class="post">3D Designer</span>
 
 
-[VISIT](AboutUs/Hirsi.md)
+[MORE DETAILS](AboutUs/Hirsi.md)
                         </div>
                     </div>
                 </div>
@@ -207,7 +207,7 @@
                             <span class="post">Fusion Designer</span>
 
 
-[VISIT](AboutUs/qaid.md)
+[MORE DETAILS](AboutUs/qaid.md)
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                             <span class="post">B.sc Machanical Eng</span>
 
 
-[VISIT](AboutUs/weal.md)
+[MORE DETAILS](AboutUs/weal.md)
                         </div>
                     </div>
                 </div>
@@ -266,7 +266,7 @@
 
 
 
-[VISIT](AboutUs/Andry.md)
+[MORE DETAILS](AboutUs/Andry.md)
                         </div>
                     </div>
                 </div>
