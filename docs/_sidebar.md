@@ -3,16 +3,14 @@
 + [Who we are](AboutUs/TeamIntro.md)
    + [OUR VISION](AboutUS/Vision.md)
 - **📝 Daily Homework**
-   - [1.🕸 WEB]()
-     - [How to Build web](https://www.nexmaker.com/doc/1projectmanage/webmethod.html)
-   - [2. Arduino basic](https://www.arduino.cc/)
+   - [1. Arduino basic](https://www.arduino.cc/)
      - [ What is Arduino ](https://www.arduino.cc/en/Guide/Introduction/)
      - [ARDUINO BOARD]()
      - [Arduino Software]()
-   - [3. Autodesk]()
+   - [2. Autodesk]()
      - [CAD](Cad/IntroductionofCad.md)
      - [Fusion](Fusion/Fusion.md)
-   - [4. 3D printing]()
+   - [3. 3D printing]()
 - 🛠 Final project
    - topic 
    -🧠 innovation
@@ -20,4 +18,4 @@
    - how to design 
    - how to make
    - SDGs
--👥 Contact US  
+- 👥 [Contact US](AboutUs/contactUS.md)

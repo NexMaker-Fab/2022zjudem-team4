@@ -1,6 +1,5 @@
 <h1 align="center"> Here our Team Members Profile </h1>
 
-[AUGY](AboutUs/AUGY.md)
 <div class="demo">
         <div class="container">
             <div class="row text-center">
