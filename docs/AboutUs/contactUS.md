@@ -11,6 +11,7 @@
                                         <p>Feel Free to contact us any time. We will get back to you as soon as we can!.</p>
                                         <input type="text" class="form-control form-group" placeholder="Name" />
                                         <input type="text" class="form-control form-group" placeholder="Email" />
+                                        <br>
                                         <textarea class="form-control form-group" placeholder="Message"></textarea>
                                         <button class="contact_form_submit">Send</button>
                                     </div>
