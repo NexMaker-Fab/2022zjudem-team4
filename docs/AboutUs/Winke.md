@@ -53,4 +53,3 @@
 <br> 
 <br>
 <img src="img/../../img/LaserCad%20wink.jpg" alt="LaserCAD" width="640" height="480"/> </a> </p>
-<br>
