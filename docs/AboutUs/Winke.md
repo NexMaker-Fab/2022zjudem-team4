@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Winkee</h1>
 <h3 align="center">A Github beginner, former Architecture student</h3>
 
-<img align="right" alt="Coding" width="300" src="https://upload-assets.vice.com/files/2016/03/12/14578219652016_01_23_cloud_computing.gif">
+<img align="right" alt="Coding" width="300" src="/docs/img/winkee.jpg">
 
 
 - 🌱 I’m currently studying **Industrial Design**
@@ -43,4 +43,6 @@
 <p style='text-align: justify;'>
  Using autoCAD for drawing the design in 2D perspective
  <br> 
-<iframe src="https://clipchamp.com/watch/OkRU6IMQO4L" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+ <br>
+ 
+<iframe src="/docs/img/Cubic progress.mp4">" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
