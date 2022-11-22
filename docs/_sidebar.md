@@ -12,10 +12,11 @@
      - [Fusion](Fusion/Fusion.md)
    - [3. 3D printing]()
 - 🛠 Final project
-   - topic 
-   -🧠 innovation
-   - market
-   - how to design 
-   - how to make
-   - SDGs
-- 👥 [Contact US](AboutUs/contactUS.md)
+  - topic 
+  -🧠 innovation
+  - market
+  - how to design 
+  - how to make
+  - SDGs
++ **📝 Contact Us**
+-👥 [Contact US](AboutUs/contactUS.md)
