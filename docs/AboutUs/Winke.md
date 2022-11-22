@@ -41,8 +41,15 @@
 
 > My LaserCAD
 <p style='text-align: justify;'>
- Using autoCAD for drawing the design in 2D perspective
+ Using autoCAD for drawing the design in 2D perspective, and save it into dxf file.
  <br> 
  <br>
- 
+
 <iframe src="/docs/img/Cubic progress.mp4">" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<br> 
+<br>
+<p style='text-align: justify;'>
+ Upload the saved dxf file onto LaserCAD software, then adjust the mode, speed and power for the cut.
+<br> 
+<br>
+<img src="/docs/img/LaserCad%20wink.jpg" alt="LaserCAD" width="640" height="480"/> </a> </p>
