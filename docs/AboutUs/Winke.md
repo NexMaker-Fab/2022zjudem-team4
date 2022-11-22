@@ -41,5 +41,6 @@
 
 > My LaserCAD
 <p style='text-align: justify;'>
- Using autoCAD for drawing the design in 2D perspective. <br> 
+ Using autoCAD for drawing the design in 2D perspective
+ <br> 
 <iframe src="https://clipchamp.com/watch/OkRU6IMQO4L" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
