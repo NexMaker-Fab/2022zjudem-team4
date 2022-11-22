@@ -45,11 +45,12 @@
  <br> 
  <br>
 
-<iframe src="/docs/img/Cubic progress.mp4">" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<img src="img/../../img/autoCAD%20wink.jpg" alt="autoCAD" width="640" height="480"/> </a> </p>
 <br> 
 <br>
 <p style='text-align: justify;'>
  Upload the saved dxf file onto LaserCAD software, then adjust the mode, speed and power for the cut.
 <br> 
 <br>
-<img src="/docs/img/LaserCad%20wink.jpg" alt="LaserCAD" width="640" height="480"/> </a> </p>
+<img src="img/../../img/LaserCad%20wink.jpg" alt="LaserCAD" width="640" height="480"/> </a> </p>
+<br>
