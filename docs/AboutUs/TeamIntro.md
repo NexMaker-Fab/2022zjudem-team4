@@ -99,7 +99,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="img/../../img/winkee.jpg">
+                            <img src="img/winkee.jpg">
                             <ul class="social">
                                 <li><a href="#" class="fab fa-facebook"></a></li>
                                 <li><a href="#" class="fab fa-google-plus"></a></li>
