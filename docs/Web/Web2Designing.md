@@ -27,7 +27,7 @@ You will need a [GitHub account](https://github.com/) and Internet connection to
 
 ### A. Creating a repository
 <br>
-<img style="float: right;" width= "500" src="web/webimg/11.jpg">
+<img style="float: right;" width= "500" src="Web/webimg/11.jpg">
 
 > A repository is a place where you store ideas, resources, or even share and <br> discuss things with others. Repositories can contain folders and files, images, videos, spreadsheets,<br> and data sets. GitHub lets you add a README file at the same time you create a new repository.<br>
 ⚫ In the upper-right corner of any page, use the :heavy_plus_sign: drop-down menu, and select New repository.<br>
