@@ -54,9 +54,33 @@ Line Follower Robot (LFR) is a basic self-guided robot that follows a drawn line
 <br> -->
 <h4><p style='text-align: left;'>
 My Fusion 
+
+### Project 1 F 360
 </p></h4>
 
 <iframe src="https://myhub.autodesk360.com/ue2fba46f/shares/public/SH9285eQTcf875d3c53903b9d04fb3842395?mode=embed" width="324" height="368" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 <h4><p style='text-align: left;'>
+
+### Project 2 F 360
+<iframe src="https://myhub.autodesk360.com/ue2fba46f/shares/public/SH9285eQTcf875d3c5399274fd6e5a86a295?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+Tripod paiter : a Painter’s Tripod it’s a pyramid that you can rest items on, with minimal contact, allowing you to paint or stain both sides at once.
+
+- Creating a base triangle
+- Creating a base triangle
+- Creating a point
+- Loft to a point
+- Shell pyramid
+- Cutting hole in one side
+- Extrude to object
+- Mirroring the hole
+
+### Project 3 F 360
+
+<iframe src="https://myhub.autodesk360.com/ue2fba46f/shares/public/SH9285eQTcf875d3c539ab0c6ca45543f978?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+Bottel 
+
+
 
 3D Printing </p></h4>

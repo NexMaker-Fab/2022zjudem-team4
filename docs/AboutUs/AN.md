@@ -84,7 +84,15 @@ text-shadow: 1px 1px 2px #000000
 </div>
 </div>
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43ff097bc88ba3976d?mode=embed" width="320" height="240" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e4342a2ba35b24026de?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e434ee238de81b296bb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43fec32ea03667fe3c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+
+<h5>With the use of mathematical logics and basic laws of physics (balancing of forces) the old traditional padlocks have been replaced by new and modified number combination lock. Padlocks are the portable locks that were designed to defend against any theft, vandalism or sabotage but with passage of time they became part of day to day life as a safety measure. Padlocks used earlier were heavy and required key to unlock but with number combination lock it becomes easy to handle the system as only thing that is required is a code which can activate or deactivate the lock. The second generation of locks, number combination lock, is like a mystery game of combinations and sequences. All one has to do is set their code and activate the lock. 
+The problem with this sytem is tht the user needs the remember the number combination that unlocks the system. And also, sometimes it can get stuck. Our system provides more convenience and a gain of time, leaving the user totally stress free. </h5>
 
 </body>
 </html>

@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Winkee</h1>
 <h3 align="center">A Github beginner, former Architecture student</h3>
 
-<img align="right" alt="Winkee" width="300" src="img/../../img/winkee.jpg">
+<img align="right" alt="Winkee" width="300" src="img/winkee.jpg">
 
 
 - 🌱 I’m currently studying **Industrial Design**
