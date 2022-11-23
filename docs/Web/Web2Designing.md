@@ -42,7 +42,7 @@ You will need a [GitHub account](https://github.com/) and Internet connection to
 ### Step 2: [Github-Desktop](https://desktop.github.com/)
 
 <br>
-<img style="float: right;" width= "500" src="web/webimg/clone.jpg">
+<img style="float: right;" width= "500" src="Web/webimg/clone.jpg">
 
 🟤 Click File <br>
 🟣 Select clone for to select existing Repository or create new repository <br>
@@ -58,7 +58,7 @@ Visual Studio Code, sometimes known as [VS Code](https://code.visualstudio.com/)
 
 ## Web Building 
 <br>
-<img style="float: right;" width= "500" src="web/webimg/22.jpg">
+<img style="float: right;" width= "500" src="Web/webimg/22.jpg">
 🟡 Select or open your Repository <br>
 🔵 click the Setting <br>
 🟢 In the Setting page Select Pages.<br>
