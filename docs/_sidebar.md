@@ -3,14 +3,16 @@
 + [Who we are](AboutUs/TeamIntro.md)
    + [OUR VISION](AboutUS/Vision.md)
 - **📝 Daily Homework**
-   - [1. Arduino basic](https://www.arduino.cc/)
+   - [1. WEB]()
+     - [How to Build web](Web/Web2Designing.md)
+   - [2. Arduino basic](https://www.arduino.cc/)
      - [ What is Arduino ](https://www.arduino.cc/en/Guide/Introduction/)
      - [ARDUINO BOARD]()
      - [Arduino Software]()
-   - [2. Autodesk]()
+   - [3. Autodesk]()
      - [CAD](Cad/IntroductionofCad.md)
      - [Fusion](Fusion/Fusion.md)
-   - [3. 3D printing]()
+   - [4. 3D printing]()
 - 🛠 Final project
   - topic 
   -🧠 innovation

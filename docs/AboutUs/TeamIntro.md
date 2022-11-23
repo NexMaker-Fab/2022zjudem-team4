@@ -266,7 +266,7 @@
 
 
 
-[MORE DETAILS](AboutUs/Andry.md)
+[MORE DETAILS](AboutUs/AN.md)
                         </div>
                     </div>
                 </div>
