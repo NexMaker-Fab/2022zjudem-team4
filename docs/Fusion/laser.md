@@ -1,4 +1,4 @@
 # Laser Cuting
 Zhejing University Designed by Mohamed Khaled <br><br>
-![Laser](img/laser.png)
+<img width=500 src="img/laser.png">
 <br><br>
