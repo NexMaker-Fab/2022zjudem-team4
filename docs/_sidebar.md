@@ -12,7 +12,7 @@
    - [3. Autodesk]()
      - [CAD](Cad/IntroductionofCad.md)
      - [Fusion](Fusion/Fusion.md)
-   - [4. 3D printing]()
+   - [4. Laser Cuting](Fusion/laser.md)
 - 🛠 Final project
   - topic 
   -🧠 innovation
