@@ -39,7 +39,31 @@
  3D drawing model needs to be create before anything. Make the first move, and you'll be just fine. <br> 
 <br> 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43fd02d26c2ebe3125?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<br>
 <br> 
+<p style='text-align: justify;'>
+ Import the model into Flashprint software (3D Print software), and do final setting for print. <br> 
+<br> 
+<br> 
+<img src="img/3D%20print%20wink%205.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<br>
+<br> 
+<p style='text-align: justify;'>
+ Connect to 3D print machine, and print. <br> 
+<br> 
+<br> 
+<img src="img/3D%20print%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<br> 
+<img src="img/3D%20print%20wink%202.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<br>
+<br> 
+<p style='text-align: justify;'>
+ Remove external support from model. <br> 
+<br> 
+<br> 
+<img src="img/3D%20print%20wink%203.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<br> 
+<img src="img/3D%20print%20wink%204.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 
 > My LaserCAD
 <p style='text-align: justify;'>
@@ -47,14 +71,14 @@
  <br> 
  <br>
 
-<img src="img/autoCAD%20wink.jpg" alt="autoCAD" width="640" height="480"/> </a> </p>
+<img src="img/autoCAD%20wink.jpg" alt="autoCAD" width="840" height="480"/> </a> </p>
 <br> 
 <br>
 <p style='text-align: justify;'>
  Upload the saved dxf file onto LaserCAD software, then adjust the mode, speed and power for the cut.
 <br> 
 <br>
-<img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="640" height="480"/> </a> </p>
+<img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 
 > My Arduino
 > <p style='text-align: justify;'>
