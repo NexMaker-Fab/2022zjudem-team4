@@ -1,4 +1,22 @@
 <!DOCTYPE html>
+
+<html>
+<head>
+<style>
+h1 {
+  font-size: 20px;
+}
+h2 {
+  font-size: 10px;
+}
+p {
+  font-size: 8px;
+}
+
+</style>
+</head>
+<body>
+
 <html>
 <head>
 <style>
@@ -26,22 +44,72 @@ text-shadow: 1px 1px 2px #000000
 </head>
 <body>
 
-<div class="w3-container w3-grey">
-<h2 align="center">Hello I am Andry Eric</h2> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+/* Style the header */
+.header {
+  background-color: lightgrey;
+  padding: 8px;
+  text-align: center;
+}
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color:lightblue;
+}
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 8px 10px;
+  text-decoration: none;
+}
+/* Change color on hover */
+.topnav a:hover {
+  background-color: FFE4C;
+  color: FFE4C;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Welcome to my page</h1>
 </div>
+
+<div class="w3-container w3-grey">
+<h2 align="center">I am Andry Eric</h2> 
+</div>
+
+<div class="topnav">
+  <a href="#"><-- Back</a>
+</div>
+
 
 
 <h2 align="center">A former Digital Media Design student and <br>Aviation Professionnal</h2>
 
 
-<h3 align="center">An image is worth a thousand words </h3>
+<h5 align="center">An image is worth a thousand words </h5>
 
 ![Alt text](../img/AndryEric-moodboard.png)
 
 <p align = "center">:see_no_evil: :hear_no_evil: :speak_no_evil: </p>
 
 <h2 align="center">Actually studying **Industrial Design Engineering**</h2>
-
 
 <!DOCTYPE html>
 <html>
@@ -51,17 +119,14 @@ text-shadow: 1px 1px 2px #000000
 a:link {
   color: lightCoral;
 }
-
 /* visited link */
 a:visited {
   color: green;
 }
-
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: FFEBC;
 }
-
 /* selected link */
 a:active {
   color: blue;
@@ -136,44 +201,36 @@ The problem with this sytem is that the user needs to remember the number combin
 div.gallery {
   border: 1px solid #ccc;
 }
-
 div.gallery:hover {
   border: 1px solid #777;
 }
-
 div.gallery img {
-  width: 50%;
+  width: 100%;
   height: auto;
 }
-
 div.desc {
-  padding: 15px;
+  padding: 5px;
   text-align: center;
 }
-
 * {
   box-sizing: border-box;
 }
-
 .responsive {
-  padding: 0 6px;
+  padding: 5px;
   float: left;
-  width: 24.99999%;
+  width: 49.99999%;
 }
-
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   .responsive {
     width: 49.99999%;
     margin: 6px 0;
   }
 }
-
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
   .responsive {
-    width: 50%;
+    width: 60%;
   }
 }
-
 .clearfix:after {
   content: "";
   display: table;
@@ -191,16 +248,15 @@ div.desc {
   <div class="gallery">
 
 ![Alt Text](../img/AndryEric-Flashprint%20.jpg)
-    <div class="desc">Freshly imported from fusion</div>
+    <div class="desc">Freshly imported from Fusion into Flashprint the .3mF format. Need to make sure that everything is allright before uploading to the printer</div>
   </div>
 </div>
-
 
 <div class="responsive">
   <div class="gallery">
 
 ![Alt Text](../img/AndryEric-Guiders%20II%20series%20screen.jpeg) 
-    <div class="desc">The printing will start when the temperature reaches 210 degrees</div>
+    <div class="desc">Printing starts when the temperature reaches 210 </div>
 
   </div>
 </div>
@@ -208,25 +264,29 @@ div.desc {
 <div class="responsive">
   <div class="gallery">
 
-  ![Alt Text](../img/AndryEric-3Dprintingmodel1.jpg)"
-    <div class="desc">In the Guilder II series 3D printer</div>
+  ![Alt Text](../img/AndryEric-3Dprintingmodel1.jpg)
+    <div class="desc">In the Guilder II series 3D printer. The filling was 15% when setting up the printer</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
 
   ![Alt Text](../img/AndryEric-3D%20printed%20project-arduino1%20.jpeg)
-    <div class="desc">The battery is actually too large for the box case, and the motor also doesn't fit. Even using Arduino Nano IOT we will need to upscale the box case a little...</div>
+    <div class="desc">Even using Arduino Nano IOT we will need to scale up the box case a little...</div>
+
   </div>
 </div>
 
 <div class="responsive">
   <div class="gallery">
 
-
- 
   </div>
 </div>
 
 <div class="clearfix"></div>
 
-<div style="padding:6px;">
+<div style="padding:3px;">
   <h5>Most of the project will use 3D printing for the structure. The different parts willl then be assembled and connected inside. some metal parts would also need to be 3D printed.</h5>
   <h5>The challenge is to downscale the project as much as possible to make it usable on a backpack.Seeeduino seems small enough but its processing power needs to be assessed.</h5>
 </div>
@@ -242,17 +302,15 @@ div.desc {
   </div>
 </div>
 
-
 <div class="responsive">
   <div class="gallery">
 
-![Alt Text](../img/AndryEric-Laser%20cutting2.jpg)
-    <div class="desc">Forgot the hole in the middle of the zip lol</div>
-
+ ![Alt Text](../img/AndryEric-Laser%20cutting2.jpg) 
+    <div class="desc">The pieces are very small but the cutting very accurate</div>
   </div>
-</div>
-
-
+  
+</body>
+</html>
 
 </body>
 </html>
