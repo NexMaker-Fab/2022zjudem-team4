@@ -12,12 +12,11 @@
      - [CAD](Cad/IntroductionofCad.md)
      - [Fusion](Fusion/Fusion.md)
    - [4. Laser Cuting](Fusion/laser.md)
-- 🛠 Final project
+- 🛠 [Final project](FinalProject.md)
   - topic 
   -🧠 innovation
   - market
   - how to design 
   - how to make
   - SDGs
-+ **📝 Contact Us**
 -👥 [Contact US](AboutUs/contactUS.md)

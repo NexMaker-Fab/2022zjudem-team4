@@ -10,13 +10,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="img/share.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
+                            <img src="img/Augy.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">UGWUEKE CHIDUBEM EMMANUEL </h3>
@@ -41,12 +35,6 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="img/new.png">
-                            <ul class="social">
-                                <li><a href="https://www.linkedin.com/in/abdiaziz-omar-hassan-359745b4/" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="https://www.facebook.com/bincmar" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">Abdiaziz Omar Hassan</h3>
@@ -69,13 +57,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="img/WeChat Image_202211042346512.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
+                            <img src="img/WeChat Image_2022110423465121.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">WALUSIMBI PETER </h3>
@@ -100,12 +82,6 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="img/winkee.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">LIM WIN KEE</h3>
@@ -129,11 +105,6 @@
                         <div class="pic">
                             <img src="img/khaled.jpg">
                             <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">OMAR KHALED QASEM AHMED AL-SHAQDARI </h3>
@@ -157,12 +128,6 @@
                     <div class="our-team">
                         <div class="pic">
                             <img src="img/hirsi.jpg">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">Abdirahim Omar Hirsi </h3>
@@ -186,13 +151,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="img/new.png">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
+                            <img src="img/qiad.jpg">
                         </div>
                         <div class="team-content">
                             <h3 class="title">MOHAMMED ABDO HASAN QAID KHALED </h3>
@@ -215,13 +174,7 @@
 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
-                            <img src="img/new.png">
-                            <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
+                            <img src="img/weal.jpg">
                         </div>
                         <div class="team-content">
                            <h3 class="title">MOHAMMED HAMOUD GHANEM </h3>
@@ -246,11 +199,6 @@
                         <div class="pic">
                             <img src="img/Eric-Team4.png">
                             <ul class="social">
-                                <li><a href="#" class="fab fa-facebook"></a></li>
-                                <li><a href="#" class="fab fa-google-plus"></a></li>
-                                <li><a href="#" class="fab fa-instagram"></a></li>
-                                <li><a href="#" class="fab fa-linkedin"></a></li>
-                            </ul>
                         </div>
                         <div class="team-content">
                             <h3 class="title">RABARISON ANDRY ERIC A </a></h3>
@@ -266,7 +214,7 @@
 
 
 
-[MORE DETAILS](AboutUs/AN.md)
+[MORE DETAILS](AboutUs/AndryEric.md)
                         </div>
                     </div>
                 </div>

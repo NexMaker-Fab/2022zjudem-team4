@@ -38,7 +38,7 @@
               </div>
               <div class="u-align-center-md u-align-left-sm u-align-left-xs u-container-style u-layout-cell u-size-20 u-layout-cell-2">
                 <div class="u-container-layout u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-2">
-                  <img class="u-image u-image-round u-radius-17 u-image-1" src="img/5d51f6146561d37e4f6622bacdfeba2.jpg" alt="" data-image-width="1080" data-image-height="1440">
+                  <img class="u-image u-image-round u-radius-17 u-image-1" src="img/Augy.jpg" alt="" data-image-width="1080" data-image-height="1440">
                 </div>
               </div>
               <div class="u-container-style u-layout-cell u-size-20 u-layout-cell-3">
