@@ -1,9 +1,9 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 
-+ [我们的愿景](CN/AboutUS/Vision.md)
++ [我们的愿景](CN/团队信息/概念期望.md)
 - *🛠 **日常作业***
-   - [1. 建造网页界面](CN/)
-     - [Web](CN/Web/WebDesigning.md)
+   - [1. 建造网页界面](CN/网页)
+     - [Web](CN/网页/WebDesigning.md)
    - [1. 基本的 Arduino](https://www.arduino.cc/)
      - [ 什么是 Arduino ](https://www.arduino.cc/en/Guide/Introduction/)
      - [ARDUINO BOARD](CN/)

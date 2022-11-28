@@ -12,14 +12,6 @@ h2 {
 p {
   font-size: 8px;
 }
-
-</style>
-</head>
-<body>
-
-<html>
-<head>
-<style>
 body {
 background-color: AliceBlue;
 }
@@ -36,21 +28,6 @@ color: white;
 text-shadow: 1px 1px 2px #000000
 ;
 }
-</style>
-<script src="https://kit.fontawesome.com/0965a77020.js" crossorigin="anonymous"></script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
-</head>
-<body>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>CSS Website Layout</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 * {
   box-sizing: border-box;
 }
@@ -82,39 +59,6 @@ body {
   background-color: FFE4C;
   color: FFE4C;
 }
-</style>
-</head>
-<body>
-
-<div class="header">
-  <h1>Welcome to my page</h1>
-</div>
-
-<div class="w3-container w3-grey">
-<h2 align="center">I am Andry Eric</h2> 
-</div>
-
-<div class="topnav">
-  <a href="#"><-- Back</a>
-</div>
-
-
-
-<h2 align="center">A former Digital Media Design student and <br>Aviation Professionnal</h2>
-
-
-<h5 align="center">An image is worth a thousand words </h5>
-
-![Alt text](../img/AndryEric-moodboard.png)
-
-<p align = "center">:see_no_evil: :hear_no_evil: :speak_no_evil: </p>
-
-<h2 align="center">Actually studying **Industrial Design Engineering**</h2>
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 /* unvisited link */
 a:link {
   color: lightCoral;
@@ -131,9 +75,67 @@ a:hover {
 a:active {
   color: blue;
 }
+div.gallery {
+  border: 1px solid #ccc;
+}
+div.gallery:hover {
+  border: 1px solid #777;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+div.desc {
+  padding: 5px;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+.responsive {
+  padding: 5px;
+  float: left;
+  width: 49.99999%;
+}
+@media only screen and (max-width: 900px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 60%;
+  }
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 </style>
+<script src="https://kit.fontawesome.com/0965a77020.js" crossorigin="anonymous"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 </head>
 <body>
+<div class="header">
+  <h1>Welcome to my page</h1>
+</div>
+
+<div class="w3-container w3-grey">
+<h2 align="center">I am Andry Eric</h2> 
+</div>
+
+<h2 align="center">A former Digital Media Design student and <br>Aviation Professionnal</h2>
+
+<h5 align="center">An image is worth a thousand words </h5>
+
+![Alt text](../img/AndryEric-moodboard.png)
+
+<p align = "center">:see_no_evil: :hear_no_evil: :speak_no_evil: </p>
+
+<h2 align="center">Actually studying **Industrial Design Engineering**</h2>
 
 <ul>
 
@@ -191,54 +193,6 @@ a:active {
 <h5>With the use of mathematical logics and basic laws of physics (balancing of forces) the old traditional padlocks have been replaced by new and modified number combination lock. Padlocks are the portable locks that were designed to defend against any theft, vandalism or sabotage but with passage of time they became part of day to day life as a safety measure. Padlocks used earlier were heavy and required key to unlock but with the number combination lock it became easy to handle the system as the only thing that is required is a code which can activate or deactivate the lock. The second generation of locks, number combination lock, is like a mystery game of combinations and sequences. All one has to do is set their code and activate the lock. <br>
 The problem with this sytem is that the user needs to remember the number combination that unlocks the system. Also, sometimes it can get stuck. Our system provides more convenience and a gain of time, leaving the user totally stress free. Welcome to the third generation of lock: the <u>Smart Locker.</u></h5>
 
-</body>
-</html>
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div.gallery {
-  border: 1px solid #ccc;
-}
-div.gallery:hover {
-  border: 1px solid #777;
-}
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-div.desc {
-  padding: 5px;
-  text-align: center;
-}
-* {
-  box-sizing: border-box;
-}
-.responsive {
-  padding: 5px;
-  float: left;
-  width: 49.99999%;
-}
-@media only screen and (max-width: 900px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 60%;
-  }
-}
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
 
 <h3 align="center">Image Gallery of the Design engineering Process</h3>
 
@@ -309,8 +263,5 @@ div.desc {
     <div class="desc">The pieces are very small but the cutting very accurate</div>
   </div>
   
-</body>
-</html>
-
 </body>
 </html>

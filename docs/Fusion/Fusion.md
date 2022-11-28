@@ -79,3 +79,71 @@
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43efa7ca21b2232176?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 <br><br>
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43eb87905180cdbab7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## By Peter
+
+#### Golf Ball 
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e430700ac2bb3369af7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+Autodesk Fusion 360 showing how to design a golf ball.
+
+<br><br>
+
+<img width=500 src="img/p9.png">
+
+<br><br>
+
+Tools used in this tutorial are
+
+1. Revolve
+<br>
+
+<br><br>
+
+<img width=500 src="img/p1.png">
+
+<br><br>
+
+<br>
+2. Extrode
+
+<img width=500 src="img/p2.png">
+
+<br><br>
+
+<br>
+3. Pattern
+
+<br><br>
+
+<img width=500 src="img/p5.png">
+
+<br><br>
+
+<br><br>
+
+<img width=500 src="img/p6.png">
+
+<br><br>
+
+4. Shell
+<br><br>
+
+<img width=500 src="img/p7.png">
+
+<br><br>
+5. Mirror
+<br><br>
+
+<img width=500 src="img/p8.png">
+
+<br><br>
+
+
+6. Combine
+<br><br>
+
+<img width=500 src="img/p9.png">
+
+<br><br>
