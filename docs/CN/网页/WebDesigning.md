@@ -29,69 +29,69 @@
 <br>
 <img style="float: right;" width= "500" src="Web/webimg/11.jpg">
 
-> A repository is a place where you store ideas, resources, or even share and <br> discuss things with others. Repositories can contain folders and files, images, videos, spreadsheets,<br> and data sets. GitHub lets you add a README file at the same time you create a new repository.<br>
-⚫ In the upper-right corner of any page, use the :heavy_plus_sign: drop-down menu, and select New repository.<br>
-🔴 Drop-down with option to create a new repository<br>
-🔵 In the Repository name box, enter *helloworld1*. <br>
-🟢 In the Description box, write a short description.<br>
-🟡 Select Add a README file.<br>
-🟤 Select whether your repository will be Public or Private.<br>
-🟣 Click Create repository.
+> 网页部署充当与仓库，可以储存想法和资源，还可以与他人分享讨论。<br> 网页部署内含文件档，文件，照片，视频，电子表格及数据。<br> 每当建立网页部署，Github 都会备有 README 空白网页。<br>
+⚫ 在每页网页的右上角，点击 :heavy_plus_sign: , 然后选择建立部署。<br>
+🔴 点击建立网页部署。<br> 
+🔵 在部署名称框里，输入 *helloworld1*。 <br> 
+🟢 在描述框里，输入简短的介绍。<br> 
+🟡 点击增加 README file。<br> 
+🟤 选择网页部署是否公开，或私人。<br> 
+🟣 点击建立。 
 <br><br><br><br><br><br><br><br><br><br><br>
-
-### Step 2: [Github-Desktop](https://desktop.github.com/)
+ 
+### 第二步: [Github-桌面](https://desktop.github.com/)
 
 <br>
 <img style="float: right;" width= "500" src="Web/webimg/clone.jpg">
 
-🟤 Click File <br>
-🟣 Select clone for to select existing Repository or create new repository <br>
-🟡 After selecting clone Select Gihub.com.<br>
-🟢 Search or Select directly to your Repository.<br>
-🔴 click clone.<br>
-🔵 After fetching all Filles then Open your Vs Code.
+🟤 选择文件并点击。 <br> 
+🟣 选择克隆现存网页部署或建立新部署。 <br> 
+🟡 点击克隆后，点击 Github.com。<br> 
+🟢 搜索或点击网页部署。<br> 
+🔴 选择克隆。<br> 
+🔵 文件更新后，打开 VS Code。 
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-### Step 3: Vs Code
-Visual Studio Code, sometimes known as [VS Code](https://code.visualstudio.com/), is a source-code editor developed by [Microsoft]() using the Electron Framework for [Windows](https://code.visualstudio.com/docs/?dv=win), [Linux](https://code.visualstudio.com/docs/?dv=linux64_deb), and [macOS](https://code.visualstudio.com/docs/?dv=osx).<br> Support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and integrated [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) are among the features. <br>
+### 第三步: VS Code
+Visual Studio Code, 也称为 [VS Code](https://code.visualstudio.com/), 是一个由 [Microsoft] 开发的代码编辑软件，可用于 Electron Framework for [Windows](https://code.visualstudio.com/docs/?dv=win), [Linux](https://code.visualstudio.com/docs/?dv=linux64_deb), and [macOS](https://code.visualstudio.com/docs/?dv=osx).<br> 适用于支援调试，语法提示，智能代码补全，片段调试，重构代码及合并 [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)。<br>
 
-## Web Building 
+## 建构网页 
 <br>
 <img style="float: right;" width= "500" src="Web/webimg/22.jpg">
-🟡 Select or open your Repository <br>
-🔵 click the Setting <br>
-🟢 In the Setting page Select Pages.<br>
-🔴 add barnch by selecting Main.<br>
-🟣 Select Root or Docs.<br>
-🟤 Click Save.
+🟡 选择或打开网页部署。 <br> 
+🔵 点击设置。 <br> 
+🟢 选择页面.<br> 
+🔴 选择主页，然后增加网页分支。<br> 
+🟣 选择 Root 或者 Docs。<br>  
+🟤 点击保存。
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
 ## Markdown 
-GitHub Markdown is GitHub's markup language for user content, allowing users of different<br> skill levels to create plain text documents that are displayed in HTML.
+GitHub Markdown 是 GitHub's 用户个人内容的语言标记, 方便不同级别的用户建立 HTML 呈现的空白网页。<br> 
 
-### Step 4: Install Nodejs
-[Node.js](https://nodejs.org/en/) is a server environment which is open source. Node.js is a cross-platform <br>programming language that works on [Windows](https://nodejs.org/en/download/), [Linux](https://nodejs.org/en/download/), [Unix](https://nodejs.org/en/download/), and [macOS](https://nodejs.org/en/download/).<br> Node.js is a JavaScript runtime environment for the backend. Node.js executes <br> JavaScript code outside of a web browser using the V8 JavaScript Engine.
+### 第四步: 下载 Nodejs
+[Node.js](https://nodejs.org/en/) 是一个开源的环境服务器。 Node.js 是一个跨平台的语言编程 <br> 可用于 [Windows](https://nodejs.org/en/download/), [Linux](https://nodejs.org/en/download/), [Unix](https://nodejs.org/en/download/), and [macOS](https://nodejs.org/en/download/).<br> Node.js 也是 JavaScript 运行于后端的环境编程。 <br> Node.js 使用 V8 JavaScript 引擎从网络浏览器以外运转 JavaScript 代码。
 
-### Step 5 NPM
+### 第五步：NPM
  <br>
-🟡 Select terminal open new terminal
+🟡 打开终端。 
 
-#### Install docsify & Install Docsify
+#### 下载 Docsify
 
 ```
 npm i docsify-cli -g
 ```
 
-🔴 After Installation 
-#### Make sure the position and then initialize environment
+🔴 完成下载 
+#### 确认位置以及环境初始化 
 
 ```
 docsify init ./docs 
 ```
 🟢
-#### Preview
+#### 预览
 
 ```
  docsify serve docs
@@ -99,54 +99,53 @@ docsify init ./docs
 
 
 
-## QA 
+## 问答 
 
-### Sidebar
-🔴 Creat File Sidebar.md
+### 侧边栏
+🔴 建立 Sidebar.md 
 
 ```Markdown
 <!-- 侧边栏 docs/_sidebar.md -->
 
-+ [Who we are](AboutUs/TeamIntro.md)
-   + [OUR VISION](AboutUS/Vision.md)
-- **📝 Daily Homework**
-   - [1. WEB]()
-     - [How to Build web](Web/Web2Designing.md)
-   - [2. Arduino basic](https://www.arduino.cc/)
-     - [ What is Arduino ](https://www.arduino.cc/en/Guide/Introduction/)
-     - [ARDUINO BOARD]()
-     - [Arduino Software]()
-   - [3. Autodesk]()
-     - [CAD](Cad/IntroductionofCad.md)
-     - [Fusion](Fusion/Fusion.md)
-   - [4. 3D printing]()
-- 🛠 Final project
-  - topic 
-  -🧠 innovation
-  - market
-  - how to design 
-  - how to make
-  - SDGs
++ [我们的愿景](CN/AboutUS/Vision.md)
+- *🛠 **日常作业***
+   - [1. 建造网页界面](CN/)
+     - [Web](CN/Web/WebDesigning.md)
+   - [1. 基本的 Arduino](https://www.arduino.cc/)
+     - [ 什么是 Arduino ](https://www.arduino.cc/en/Guide/Introduction/)
+     - [ARDUINO BOARD](CN/)
+     - [Arduino 软件](CN/)
+   - [2. Autodesk](CN/)
+     - [CAD](CN/Cad/IntroductionofCad.md)
+     - [Fusion](CN/Fusion/Fusion.md)
+   - [3. 3D printing]()
+-🛠 期末作业
+   - 主题
+   -🧠 创新
+   - 市场
+   - 设计方案
+   - 设计过程
+   - 发展可续性
+-👥 [联系我们](AboutUs/contactUS.md)
 + **📝 Contact Us**
--👥 [Contact US](AboutUs/contactUS.md)
 
 ```
-🔴 open the Index file go to <mark> window.$docsify</mark> then add
+🔴 打开 Index 文件点击 <mark> window.$docsify</mark> 然后输入
 
 ```html 
 loadSidebar: true,
 
 ```
 
- #### collapsible Sidebar
- to make your sidebar collapsible you just need to these things 
-add in <mark> window.$docsify</mark> this code 
+ #### 卷式关闭侧边栏
+ 若建立卷式关闭侧边栏，至于在 <mark> window.$docsify</mark> 输入这个代码
+
 ```html
 
  subMaxLevel: 3,
  sidebarDisplayLevel: 1, // set sidebar display level
 ```
-Then insert <mark>script</mark> into document just like the [official plugins's](https://docsify.js.org/#/plugins) usage
+填写 <mark>script</mark> 在文件处，如 [official plugins's](https://docsify.js.org/#/plugins) 作用。
 
 ```html
 <!-- plugins -->
@@ -155,9 +154,11 @@ Then insert <mark>script</mark> into document just like the [official plugins's]
 
 ### Navbar
 
-🔴 Creat File Navbar.md
+🔴 建立 Navbar.md
+
 ```markdown
 <!-- 侧边栏 docs/_navbar.md -->
+
 - [Home]()
 - [About US]()
   - [AUGY](AboutUs/AUGY.md)
@@ -174,13 +175,14 @@ Then insert <mark>script</mark> into document just like the [official plugins's]
     - [CN:cn:](CN/)
   - ع:saudi_arabia:
 ```
-🔴 open the Index file go to <mark> window.$docsify</mark> then add
+🔴 打开 Index 文件点击 <mark> window.$docsify</mark> 然后输入
+
 ```html
 loadNavbar: true,
 ```
 
-### Search
-By default, the hyperlink on the current page is recognized and the content is saved in localStorage.<br> You can also specify the path to the files.
+### 搜索
+网页超链接将会被默认，该内容将保存在 localStorage。<br> 但也可导入特定路径。
 
 ```html
 <script>
@@ -241,19 +243,20 @@ By default, the hyperlink on the current page is recognized and the content is s
 
 ```
 
-### Uploading Image 
+### 上传照片 
 
-### Imoji
-Renders a larger collection of emoji shorthand codes. Without this plugin, Docsify is able to render only a limited number of emoji shorthand codes.
-add the end of index file
+### 表情符号
+由于 Docsify 只能绘制小部分的表情符号代码，这个插件可以作为替代。
+输入此代码在 index file 的后端
+
 ```html
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 ```
-### Coloumns
+### 行列
 
-### LANGUAGE
+### 语言
 
-normaly your docs file look like this 
+一般 docs file 将会呈现如以下：  
 ```
 .
 └── docs
@@ -262,7 +265,7 @@ normaly your docs file look like this
     ├── Sidebar.md
     └── navbar.md
 ```
-if you want to have more languages you need creat another follder like you want make chinese so you haave have follder like China like this way.
+若想增加更多的语言，需建立一个新的文件档，如以下:
 
 ```
 .
@@ -285,12 +288,13 @@ if you want to have more languages you need creat another follder like you want 
      └── navbar.md
 └── README.md   
 ```
-then add in the index file 
+然后在 index file 输入
+
 ```html 
 homepage: 'home.md',
 mergeNavbar: true,
 ```
-### footer
+### 页脚/脚注
 
 ``` html
 footer: {
@@ -315,11 +319,11 @@ footer: {
 
 
 
-## Reference tool
+## 参考工具
 
-Blogs, wikis, documentation, content management systems
+博客, 维基百科, 文献, 内容管理系统
 
-[WorldPress], Wordpress web servier
+[WorldPress], Wordpress 服务器
 [Wix]
 [Webflow]
 [Gitlab]-html,Tech Stack - HTML+CSS+Github
@@ -331,7 +335,7 @@ Blogs, wikis, documentation, content management systems
 [wolai]
 
 
-## Web development
+## 网页开发
 
 http-server
 W3C
