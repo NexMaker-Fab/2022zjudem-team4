@@ -1,5 +1,6 @@
-<h5>The project is first designed in Fusion 360, then sent to a Flashforge 3D printer (Guider II series) where it is printed using PLA -that is the material-. Some metal parts will need to be 3D printed.<br>The motor, battery, Arduino Uno and different components used for the project are provided in the Arduino Beginners's Kit.
-However, our project will need to use an Arduino Nano IOT, as the one in the kit is way too large and neither features bluetooth or an internet connection.The battery also is way too large and the final project will require a smaller battery.</h5> 
+<h1 style="font-size:5vw; text-align:center" >SMART LOCKER<h1>
+<h4>The project is first designed in Fusion 360, then sent to a Flashforge 3D printer (Guider II series) where it is printed using PLA -that is the material-. Some metal parts will need to be 3D printed.<br>The motor, battery, Arduino Uno and different components used for the project are provided in the Arduino Beginners's Kit.
+However, our project will need to use an Arduino Nano IOT, as the one in the kit is way too large and neither features bluetooth or an internet connection.The battery also is way too large and the final project will require a smaller battery.</h4> 
 
 <h4 style="text-align:justify;">
 With the use of mathematical logics and basic laws of physics (balancing of forces) the old traditional padlocks have been replaced by new and modified number combination lock.<br>
