@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome my Page </h2>
+<h2 align="center"> 欢迎观访我的网页 </h2>
 <h5 align="right"><p>Walusimbi Peter</p><p>:telephone_receiver: +86-13202055465</p> 
 <p>:envelope: <a href = "whatsonpeter@gmail.com"> whatsonpeter@gmail.com</a> </p> <p align = "right">:earth_asia: Ningbo – China </p></h5> 
  <img style="float: right;" alt= "Peter"  width ="250" src="img/WeChat%20Image_202211042346512.jpg" >
@@ -9,15 +9,15 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="../img/IMG_6278.JPG">
 </picture> -->
 <p style='text-align: justify;'>
- I am Walusimbi Peter a Structural engineer with a B.sc Civil engineering <br> from South China  University of Technology Guangzhou China,, also a graduate of Columbia University <br> in the city of New York in Construction Project Management, Architecture, Network <br>and Computer Engineering, at MUK I am Curently  doing Professional Master Industrial<br>Design Engineering at Zhejiang University, i am a designer, Researcher/Engineer.<br>
- i have taken part in many PKPM, SAP2000, CAD, REVIT design/construction and<br> innovative projects at Sirpta Group.<br>
-i am interested in Engineering and projects such as High rise structures, bridges, <br>surveying, turnels,roads, BIM (Building information modelling), hydraulic engineering design, project support Industrial Engineering and the Internet of Things (IoT/IOE). </p>
+ 我是 Walusimbi Peter，一名土木工程系毕业的机构工程师 <br> 毕业于华南理工大学，也是一名 Columbia University 毕业生 <br> 在纽约曾参与建筑工程管理, 建筑设计, <br> 以及网络工程管理。目前就读工业设计工程 <br> 在自己打宁波校区。我是设计师，研究员及工程师。<br>
+ 我曾参与一些 PKPM, SAP2000, CAD, REVIT 设计工程项目在 <br> Sirpta Group.<br>
+我比较感兴趣于建筑工程，例如高楼，桥，<br>测量, 隧道，道路, BIM 模型 (Building information modelling), 水利工程设计, 工业设计工程以及Internet of Things (IoT/IOE). </p>
 
-- 👋 Hi, I’m @Sirpta
-- 👀 I’m interested in Designing AI
-- 🌱 I’m currently learning Industrial Design Engineering.
-- 💞️ I’m looking to collaborate on AI Robotics Design & mega structures.
-- 📫 How to reach me via Email :whatsonpeter@gmail.com
+- 👋 你好, 我是 @Sirpta
+- 👀 我感兴趣在 人工智能设计
+- 🌱 目前就读于工业设计工程
+- 💞️ 期待 AI Robotics Design & mega structures 合作
+- 📫 邮件联系 :whatsonpeter@gmail.com
 
 
 
@@ -25,11 +25,11 @@ i am interested in Engineering and projects such as High rise structures, bridge
 ## My Projects ##
 
 
-> My Project  see more details here  
+> My Project  更多资料  
 
 <img style="float: left;" width="300" src="img/WeChat%20Image_20221104234651.jpg">
 <br/>
-This will be one of the most geographically located super structure with a 360 degree view of the entire city from all corners and angles at the top most floor. Designed to over come strong winds from the sea side and luminate glowing light from the sun built with the latest state of the art technology (pre stressed slab/beam casting) 
+在顶层的360°上部构造，设计概念是用艺术科技的理念，同时也可承受强烈的海风。
 <br>
 <br>
 <br>
@@ -44,7 +44,7 @@ This will be one of the most geographically located super structure with a 360 d
 <br>
 <br>
 <img style="float: right;" width="300" src="img/WeChat%20Image_202211042346511.jpg">
-built with tons of fresh concrete and steal ,this unique structure consists of 25 floors, 4 basements, swimming pools on the roof top, suspended tower bridge connecting the hotel tower and apartment side. hilpard, presidential suits, bullet/sound/heavy artilery/ earth/typhons, tsuanami proof and bankers.
+这栋高楼一共有25层，4层地下室，顶层游泳池，悬浮桥梁成为酒店和公寓的连接，总统套房，防弹防震设计。 
 <br>
 <br>
 <br>
@@ -66,7 +66,7 @@ built with tons of fresh concrete and steal ,this unique structure consists of 2
 <br>
 <br>
 <img style="float: left;" width="300" src="img/WeChat%20Image_202211042346515.jpg">
-designed to siut the guests needs and safety giving that home away from home feel and comfort as you enjoy your visit/ stay in the city.
+设计概念是给予房客在城市里的安全感和归属感。
 <br>
 <br>
 <br>
