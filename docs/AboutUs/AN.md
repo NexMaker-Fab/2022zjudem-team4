@@ -216,7 +216,7 @@ Select axis><br>
 
 solid>create>box</p>
 
-![Alt text](../img/AndryEric%20step%202%20in%20fusion%20solid%3Ecreatebox.png)
+![Alt text](/img/AndryEric%20step%202%20in%20fusion%20solid%3Ecreatebox.png)
 
 
 <p><b>STEP 3:Specify the dimensions</b><br>
