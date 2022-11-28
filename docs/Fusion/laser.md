@@ -13,9 +13,10 @@
 > Design Box for Laser cuting By [Augustin](AboutUs/Augy.md)
 <br>
 <p class="p1">
-Application 
-Cut after Engraving, 
-Cutting</p1>
+<b>Application </b>: <br>
+Cut after Engraving, <br>
+<span style= "color:red;" >Cut</span> </p1>
+<br>
 
 <div class="responsive">
   <div class="gallery">
@@ -43,24 +44,14 @@ Cutting</p1>
   </div>
 </div>
 <div class="clearfix"></div>
-<br><br>
-<br>
-<br><br><br>
-<br><br><br>
-<br><br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-<br>
-<br>
+
 
 > Laser Cut Mushaf Holder Koran Stand By [Peter](AboutUs/Peter.md) And [Abdiaziz](AboutUs/Mahir.md)
 <br>
 <p class="p1">
-Application 
-Cut after Engraving, 
-Cutting</p1>
+<b>Application </b>: <br>
+Cut after Engraving, <br>
+<span style= "color:red;" >Cut</span> </p1>
 <br>
 <div class="responsive">
   <div class="gallery">
