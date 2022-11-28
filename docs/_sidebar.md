@@ -1,6 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 
-+ [**OUR VISION**](AboutUS/Vision.md)
++ [OUR VISION](AboutUS/Vision.md)
 - **📝 Daily Homework**
    - [1. WEB]()
      - [How to Build web](Web/Web2Designing.md)
