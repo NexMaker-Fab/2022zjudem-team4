@@ -1,9 +1,9 @@
 <h1 align = center> Abdirahim Omar Hirsi </h1>
 
-> Personal Info:
- >> 你好 I am Abdirahim Omar from **Somalia** :somalia:, and I am a Master Professional of **Industrial Design Engineering** student at **Zhejiang University**. I graduated with a B.sc in **Mechanical Engineering** from **Hormuud University in Mogadishu, Somalia**.
+> 个人讯息:
+ >> 你好，我是 Abdirahim Omar 来自 **Somalia** :somalia:, 目前就读于 **工业设计工程** 在 **浙江大学**. 我是一名 **Hormuud University，Mogadishu, Somalia** 的 **机械工程** 学士毕业生。
 
-> Skills
+> 技能
  - AutoCad
  - Autodesk
  - Fusion
