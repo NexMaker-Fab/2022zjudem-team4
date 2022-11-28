@@ -12,20 +12,20 @@
 ## 工具准备和环境配置
 
 ### 第一步: Github 
-[GitHub](https://github.com/) is a platform for hosting code that allows for version control and collaboration. <br> It allows you and others to collaborate on projects from anywhere.<br>
-This guide will teach you the fundamentals of GitHub, such as repositories, branches, commits, and pull requests.<br> 
-You'll make your own Hello World repository and learn how to use GitHub's pull request procedure,<br> which is a popular way to generate and evaluate code. 
+[GitHub](https://github.com/) 是一个能够让主机有权控制和合作的平台。<br> 方便主机不分地区国界与他人合作。<br> 
+在这网页指南里会学到 Github 的基础，例如网页部署（repository)，网页分支 (branches)，网页提交 (commit)和提交代码申请 (PR - Pull Request)。<br> 
+建立属于自己的 Hello World 网页部署，以及使用 Github PR 功能, <br> 就会获得网页链接，这是一个比较通俗的做法。
 
-In this quickstart guide, you will:
+在这快速入门指南，会学到：
 
-1. Create and use a repository
-2. Start and manage a new branch
-3. Make changes to a file and push them to GitHub as commits
-4. Open and merge a pull request
+1. 建立和使用网页部署
+2. 管理和经营网页分支
+3. 文件改动和网页提交
+4. 合并代码
 
-You will need a [GitHub account](https://github.com/) and Internet connection to finish this lesson. You do not need to know how to write, use the command line, or install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+需要个人Github 账号 [GitHub account](https://github.com/) 以及稳定的网络连接。不需要知道怎么打码，使用 command line，或者下载 [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-### A. Creating a repository
+### A. 建立网页部署
 <br>
 <img style="float: right;" width= "500" src="Web/webimg/11.jpg">
 
