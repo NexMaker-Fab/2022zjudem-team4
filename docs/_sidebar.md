@@ -1,23 +1,23 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 
-+ [OUR VISION](AboutUS/Vision.md)
-- **📝 Daily Homework**
+- [OUR VISION](AboutUS/ourVision.md)
+- **📝Project Management**
    - [1. WEB]()
      - [How to Build web](Web/Web2Designing.md)
-   - [2. Arduino basic](Arduino/arduino.md)
-     - [ What is Arduino ](Arduino/arduino.md)
-     - [ARDUINO BOARD](Arduino/board.md)
-     - [Arduino Software]()
-     - [Assessments](Arduino/Assmnt.md)
-   - [3. Autodesk]()
-     - [CAD](Cad/IntroductionofCad.md)
-     - [Fusion](Fusion/Fusion.md)
-   - [4. Laser Cuting](Fusion/laser.md)
-- 🛠 [Final project](FinalProject.md)
+- [2. Arduino basic](Arduino/arduino.md)
+  - [ What is Arduino ](Arduino/arduino.md)
+  - [ARDUINO BOARD](Arduino/board.md)
+  - [Arduino Software]()
+  - [Assessments](Arduino/Assmnt.md)
+- [3. Autodesk]()
+  - [CAD Assessment](Cad/IntroductionofCad.md)
+  - [Fusion](Fusion/Fusion.md)
+- [4. Laser Cuting](Fusion/laser.md)
+- [🛠 Final project](FinalProject.md)
   - [topic](FinalProject.md) 
   -🧠 innovation
   - market
   - how to design 
   - how to make
   - SDGs
--👥 [Contact US](AboutUs/contactUS.md)
+-[👥Contact US](AboutUs/contactUS.md)
