@@ -1,8 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
-
-- [👀 OUR VISION](AboutUS/newvision.md)
-- **📝Project Management**
-   - [1. WEB](web/)
+- **1. Project Management**
+   - [1. WEB](web/Web2Designing.md)
      - [How to Build web](Web/Web2Designing.md)
 - [2. Arduino basic](Arduino/arduino.md)
   - [ What is Arduino ](Arduino/arduino.md)
@@ -10,14 +8,21 @@
   - [Arduino Software]()
   - [Assessments](Arduino/Assmnt.md)
 - [3. Autodesk](Cad/cad.md)
+  - [Introduction of Cad](Cad/cad.md)
   - [CAD Assessment](Cad/IntroductionofCad.md)
   - [Fusion](Fusion/Fusion.md)
+- [3D Printing](3D/3Dprinting.md)
+  - [Model Assessment](3D/3Dprinting.md)
+  - [Final Results]()
 - [4. Laser Cuting](Fusion/laser.md)
 - [🛠 Final project](FinalProject.md)
-  - [topic](FinalProject.md) 
-  -🧠 innovation
-  - market
-  - how to design 
-  - how to make
-  - SDGs
--[👥Contact US](AboutUs/contactUS.md)
+   - [topic](FinalProject.md) 
+   - 🧠innovation
+   - market
+   - how to design 
+   - how to make
+   - SDGs
+
+- [👥Contact US](AboutUs/contactUS.md)
+
+- [👀 OUR VISION](AboutUs/newvision.md)
