@@ -1,15 +1,15 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 
-- [OUR VISION](AboutUS/newvision.md)
+- [👀 OUR VISION](AboutUS/newvision.md)
 - **📝Project Management**
-   - [1. WEB]()
+   - [1. WEB](web/)
      - [How to Build web](Web/Web2Designing.md)
 - [2. Arduino basic](Arduino/arduino.md)
   - [ What is Arduino ](Arduino/arduino.md)
   - [ARDUINO BOARD](Arduino/board.md)
   - [Arduino Software]()
   - [Assessments](Arduino/Assmnt.md)
-- [3. Autodesk]()
+- [3. Autodesk](Cad/cad.md)
   - [CAD Assessment](Cad/IntroductionofCad.md)
   - [Fusion](Fusion/Fusion.md)
 - [4. Laser Cuting](Fusion/laser.md)
