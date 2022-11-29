@@ -1,6 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 
-- [OUR VISION](AboutUS/ourVision.md)
+- [OUR VISION](AboutUS/newvision.md)
 - **📝Project Management**
    - [1. WEB]()
      - [How to Build web](Web/Web2Designing.md)
