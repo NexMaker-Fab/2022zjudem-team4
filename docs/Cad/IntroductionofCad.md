@@ -11,46 +11,46 @@
 <h3 align="left"><u>How to design in Fusion step by step</u></h3>
 
 <div>
-<p><b>STEP 1:New Design</b><br>
+<p class="p1"><b>STEP 1:New Design</b><br>
 Open Fusion>file>new design</p>
 
 ![Alt text](../img/AndryEricstep1inFusion.png)
 
-<p><b>STEP 2:Create a box</b></br>
+<p class="p1"><b>STEP 2:Create a box</b></br>
 Select axis><br></p>
 
 ![Alt text](../img/AndryEricinfusionselectaplaneorplanarface.png)
 
-![Alt text](../img/AndryEric%20step%202%20in%20fusion%20select%20axis%20%20.png)
+![Alt text](../img/AndryEricstep2infusionselectaxis.png)
 
 ![Alt text](../img/AndryEricstep2infusionselectaxis.png)
 
-<p>solid>create>box</p>
+<p class="p1">solid>create>box</p>
 
 ![Alt text](../img/AndryEricstep2znfusionsolidcreatebox.png)
 
-<p><b>STEP 3:Specify the dimensions</b><br>
+<p class="p1"><b>STEP 3:Specify the dimensions</b><br>
 Clicking + hold>drag from a corner<br> 
 Specify dimensions: length 44 mm, press tab,  width 22 mm> click "enter"</p>
 
 ![Alt text](../img/AndryEricforfusionspecifythedimensions.png)
 
-<p><b>Step 4:Extrude</b><br>
+<p class="p1"><b>Step 4:Extrude</b><br>
 Click + hold>drag>Extrude<br> 
 Height 10 mm</p>
 
 ![Alt text](../img/AndryEricinfusionstep4extrude.png)
 
-<p><b>Step 5:Bevel the corners</b><br>
+<p class="p1"><b>Step 5:Bevel the corners</b><br>
 Select an edge>Modify>chamfer>choose 2 mm>do it for 4 edges</p>
 
-![Alt text](../img/AndryEricinfusionstep5bevelthecorners%20.png)
+![Alt text](../img/AndryEricinfusionstep5bevelthecorners.png)
 
 ![Alt text](../img/AndryEricinfusionstep5bevelthe1stcorner.png)
 
 ![Alt text](../img/AndryEricinfusionstep5bevelthe4corners.png)
 
-<p><b>Step 6:Shell</b><br>
+<p class="p1"><b>Step 6:Shell</b><br>
 utilities>modify>shell: the body becomes hollow<br>
 choose 9 mm</p>
 
@@ -60,35 +60,35 @@ choose 9 mm</p>
 
 ![Alt text](../img/AndryEricinFusionstep6createahollowcavity2.png)
 
-<p><b>Step 7:Create the inside walls</b><br>
--Same as steps 2 to 4<br>
--Specify the dimensions: length 10 mm, width 1 mm , height 22 mm> and in the dialog box> operation>join</p>
+<p class="p1"><b>Step 7: Create the inside walls</b><br>
+- Same as steps 2 to 4<br>
+- Specify the dimensions: length 10 mm, width 1 mm , height 22 mm> and in the dialog box> operation>join</p>
 
 ![Alt text](../img/AndryEricstep2znfusionsolidcreatebox.png)
 
 ![Alt text](../img/AndryEricinFusionstep7createinsidewalls.png)
 
-<p><b>Step 8:Create a square hole for the Digital Fingerprint  Reader component</b><br>
+<p class="p1"><b>Step 8:Create a square hole for the Digital Fingerprint  Reader component</b><br>
 Specify the dimensions and and in the dialog box> operation>cut</p>
 
 ![Alt text](../img/AndryEricinFusioncreateasquarehole.png)
 
-<p><b>Step 9:Create a hole</b><br>
+<p class="p1"><b>Step 9:Create a hole</b><br>
 solid>create>hole and specify the dimensions: here diameter 2 mm</p>
 
 ![Alt text](../img/AndryEricinFusionstep10createaroundhole2.png)
 
-<p><b>Step 10:Create a rode</b><br>
+<p class="p1"><b>Step 10:Create a rode</b><br>
 solid>create>cylinder and extrude: length 12.252 mm and diameter of 1.95 mm because has to go inside the hole of a diameter of 2 mm</p>
 
 ![Alt text](../img/AndryEricinFusionstep9createaroundhole.png)
 
-<p><b>Step 11:Solid>create>coil</b><br>
+<p class="p1"><b>Step 11:Solid>create>coil</b><br>
 Specify the dimensions: loop length 55.441 mm and surface 41.595 mm^2</p>
 
 ![Alt text](../img/AndryEricinfusionstep11createacoil.png)
 
-<p><b>Step 12:Assemble the rod with the case</b><br>
+<p class="p1"><b>Step 12:Assemble the rod with the case</b><br>
 -Click on the original component in the browser:here “Inner mechanism of a locker”<br>
 >dropdown>choose “rigid group”: locks the relative positions of the selected components</p>
 
@@ -96,7 +96,7 @@ Specify the dimensions: loop length 55.441 mm and surface 41.595 mm^2</p>
 
 ![Alt text](../img/AndryEricinFusionstep12assembletherodwiththecase3.png)
 
-<p>-Click on utilities>assemble>joint>select carefully the faces of each object we want to join in this case the case of the locker with the rod</p>
+<p class="p1">-Click on utilities>assemble>joint>select carefully the faces of each object we want to join in this case the case of the locker with the rod</p>
 
 ![Alt text](../img/AndryEricinFusionstep12assembletherodwiththecase%20.png)
 
@@ -108,11 +108,11 @@ Specify the dimensions: loop length 55.441 mm and surface 41.595 mm^2</p>
 
 ![Alt text](../img/AndryEricinfusionstep12assembletherodwiththecase7.png)
 
-<p>-Push the rod inside by clicking and dragging</p>
+<p class="p1"> Push the rod inside by clicking and dragging</p>
 
 ![Alt text](../img/AndryEricinfusionstep13pushtherodinsidebyclickinganddragging.png)
 
-<p><b>Step 13:Assemble the coil with the inserted rod</b><br>
+<p class="p1"><b>Step 13:Assemble the coil with the inserted rod</b><br>
 Click on utilities>assemble>joint>select carefully the faces of each object we want to join in this case the coil with the inserted rod</p>
 
 ![Alt text](../img/AndryEricinfusionstep13pushtherodinsidebyclickinganddragging.png)
@@ -122,125 +122,154 @@ Click on utilities>assemble>joint>select carefully the faces of each object we w
 </div>
 </div>
 
-#### Golf Ball
+# Some Other Fusion
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img/sp1.jpg">
-      <img src="img/sp1.jpg" alt="Cinque Terre" width="600" height="400">
-    </a>
-    <div class="desc">The filling was 50% when setting up the printer</div>
-  </div>
-</div>
+> ## by Abdiaziz Omar Hassan
+
+<iframe src="https://myhub.autodesk360.com/ue2fba46f/shares/public/SH9285eQTcf875d3c53903b9d04fb3842395?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## by Mohamed Khaled
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43b14627f50a6167e7?mode=embed" width="300" height="280" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+### Process
+**1<sup>st</sup> Step** Click Creat then <span style="color: green"> select Circle</span> then creat a circle with 200mm and center small circle inside circle 40 mm then Extrode 30 mm
+<br><br>
+
+<img width=500 src="img/1.png">
+<br><br>
+
+**2<sup>nd</sup> Step**
+<br><br>
+
+<img width=500 src="img/2.png">
+<br><br>
+
+**3<sup>rd</sup> Step**
+<br><br>
+
+<img width=500 src="img/3.png">
+<br><br>
+
+**4<sup>th</sup> Step**
+<br><br>
+
+<img width=500 src="img/4.png">
+<br><br>
+
+**5<sup>th</sup> Step** : <span style="color:green"> Finish the Sketch </span>
+<br><br>
+
+<img width=500 src="img/5.png">
+<br><br>
+
+**6<sup>th</sup> Step**
+<br><br>
+
+<img width=500 src="img/6.png">
+<br><br>
+
+**7<sup>th</sup> Step**
+<br><br>
+
+<img width=500 src="img/7.png">
+<br><br>
+
+**8<sup>th</sup> Step** <span style="color:green"> Finish the Sketch </span>
+<br><br>
+
+<img width=500 src="img/8.png">
+<br><br>
+
+**9<sup>th</sup>Step** : 
+<br><br>
+
+<img width=500 src="img/9.png">
+<br><br>
+
+**10<sup>th</sup> Step**
+<br><br>
+
+<img width=500 src="img/10.png">
+<br><br>
+
+**11<sup>th</sup> Step**
+<br><br>
+
+<img width=500 src="img/11.png">
+<br><br>
+
+## by Winkee
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43efa7ca21b2232176?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<br><br>
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43eb87905180cdbab7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## By Peter
+
+#### Golf Ball 
+
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e430700ac2bb3369af7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+Autodesk Fusion 360 showing how to design a golf ball.
+
+<br><br>
+
+<img width=500 src="img/p9.png">
+
+<br><br>
+
+Tools used in this tutorial are
+
+1. Revolve
+<br>
+
+<br><br>
+
+<img width=500 src="img/p1.png">
+
+<br><br>
+
+<br>
+2. Extrode
+
+<img width=500 src="img/p2.png">
+
+<br><br>
+
+<br>
+3. Pattern
+
+<br><br>
+
+<img width=500 src="img/p5.png">
+
+<br><br>
+
+<br><br>
+
+<img width=500 src="img/p6.png">
+
+<br><br>
+
+4. Shell
+<br><br>
+
+<img width=500 src="img/p7.png">
+
+<br><br>
+5. Mirror
+<br><br>
+
+<img width=500 src="img/p8.png">
+
+<br><br>
 
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img/sp2.jpg">
-      <img src="img/sp2.jpg" alt="Forest" width="600" height="400">
-    </a>
-    <div class="desc">The filling was 85% when setting up the printer</div>
-  </div>
-</div>
+6. Combine
+<br><br>
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img/sp4.jpg">
-      <img src="img/sp4.jpg" alt="Northern Lights" width="600" height="400">
-    </a>
-    <div class="desc">The filling was 95% when setting up the printer</div>
-  </div>
-</div>
+<img width=500 src="img/p9.png">
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img/cmplt.jpg">
-      <img src="img/cmplt.jpg" alt="Mountains" width="600" height="400">
-    </a>
-    <div class="desc">The filling was 100% when setting up the printer</div>
-  </div>
-</div>
-
-<div class="clearfix"></div>
-
-
-
-
-
-
-#### Smart Locker by Andry Eric
-
-
-<div class="responsive">
-  <div class="gallery">
-
-![Alt Text](../img/AndryEric-Flashprint%20.jpg)
-    <div class="desc">Freshly imported from Fusion into Flashprint the .3mF format. Need to make sure that everything is allright before uploading to the printer</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-
-![Alt Text](../img/AndryEric-Guiders%20II%20series%20screen.jpeg) 
-    <div class="desc">Printing starts when the temperature reaches 210 </div>
-
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-
-  ![Alt Text](../img/AndryEric-3Dprintingmodel1.jpg)
-    <div class="desc">In the Guilder II series 3D printer. The filling was 15% when setting up the printer</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-
-  ![Alt Text](../img/AndryEric-3D%20printed%20project-arduino1%20.jpeg)
-    <div class="desc">Even using Arduino Nano IOT we will need to scale up the box case a little...</div>
-
-  </div>
-</div>
-
-
-
-
-### Screw Jack
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img/32.jpg">
-      <img src="img/31.jpg" alt="Forest" width="600" height="400">
-    </a>
-    <div class="desc">Screw Jack Model</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img/31.jpg">
-    <video width="320" height="240" poster="img/31.jpg" controls>
-   <source src="img/32.mp4" type="video/mp4">
-   <source src="movie.ogg" type="video/ogg">
-    </a>
-    <div class="desc">End Printing</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img/33.jpg">
-    <video width="320" height="240" poster="img/31.jpg" controls>
-   <source src="img/33.mp4" type="video/mp4">
-   <source src="movie.ogg" type="video/ogg">
-</video>
-    </a>
-    <div class="desc">removing out the plate and sapport </div>
-  </div>
-</div>
-
-<div class="clearfix"></div>
+<br><br>
 

@@ -33,12 +33,18 @@ Today, the use of CAD has permeated almost all industries. From aerospace, elect
 Since its introduction in late 1960’s, CAD software has improved by leaps and bounds.  A broad classification of CAD is:
 
 🟤2D CAD
+<br>
 🟤3D CAD
+<br>
 🟤3D Wireframe and Surface Modelling
+<br>
 🟤Solid Modelling
+<br>
 🟤With more and more companies (if not all) turning to CAD / CAE / CAM to achieve efficiency, accuracy and reduced time-to-market of products, there is a growing demand for CAD software. The industry leaders in this space include AutoCAD, Dassault Systems and Altair.
 
 You may also like to read:
 
 [Types of CAD Software]()
+<br>
+
 [CAD Training]()
