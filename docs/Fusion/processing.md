@@ -1,6 +1,6 @@
 # Processing
 
-> Processing assignment by Winkee <br><br>
+> Processing assignment by [Winkee](AboutUs/Winke.md) <br><br>
 
 
 ## CODE
@@ -61,7 +61,7 @@ void draw() {
 <br>
 <br>
 
-> Processing mini game by Winkee <br><br>
+> Processing mini game by [Winkee](AboutUs/Winke.md) <br><br>
 
 # CODE
 

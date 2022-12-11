@@ -1,6 +1,6 @@
 <h3 style="font-size:5vw; text-align:left" > Arduino Projects</h3>
 
-<h1> Frist program: <span style = "color:blue" >Car Parking Alarm </span></h1>
+<h1> First program: <span style = "color:blue" >Car Parking Alarm </span></h1>
 <p class="p2"> ABOUT THIS PROJECT </p>
 <p class="p1" style="text-align:justify;">
 

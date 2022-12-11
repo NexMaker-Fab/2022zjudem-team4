@@ -6,7 +6,7 @@
 <br><br>
 <br>
 
-> Basic cube puzzle designed by Winkee
+> Basic cube puzzle designed by [Winkee](AboutUs/Winke.md)
 
 <img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 
