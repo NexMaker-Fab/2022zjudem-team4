@@ -13,7 +13,8 @@
 - [4. 3D Printing](3D/3Dprinting.md)
   - [Model Assessment](3D/3Dprinting.md)
   - [Final Results](3D/postpros.md)
-- [5. Laser Cuting](Fusion/laser.md)
+- [5. Laser Cutting](Fusion/laser.md)
+- [6. Processing](Fusion/processing.md)
 - [🛠 Final project](FinalProject.md)
    - [topic](FinalProject.md) 
    - 🧠innovation
