@@ -54,10 +54,7 @@ void draw() {
   }
 }  
 ```
-<video width="640" height="480" poster="img/processing%20logo.jpg" controls>
-   <source src="img/Brush%20by%20wink.gif" type="video/gif">
-   <source src="movie.ogg" type="video/ogg">
-</video>
+<img width="640" height="480" src="img/Brushbywink.gif">
 <br>
 <br>
 
@@ -120,9 +117,7 @@ void mousePressed() {
   reset();
 }
 ```
-<video width="640" height="480" poster="img/processing%20logo.jpg" controls>
-   <source src="img/PINGPONG%20by%20wink.gif" type="video/gif">
-   <source src="movie.ogg" type="video/ogg">
-</video>
+<img width="640" height="480" src="img/PINGPONGbywink.gif" >
+  
 <br>
 <br>
