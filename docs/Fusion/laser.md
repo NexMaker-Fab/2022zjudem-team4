@@ -8,7 +8,7 @@
 
 > Basic cube puzzle designed by [Winkee](AboutUs/Winke.md) and [Eric](AboutUs/AndryEric.md)
 <p style='text-align: justify;'>
- Designing using AutoCAD software, and make sure to leave some spacing for the kerf.
+ Designing using AutoCAD software, and make sure to leave some spacing for the kerf. Upload the saved dxf file onto LaserCAD software, then adjust the mode, speed and power for the cut.
 <br> 
 <div class="responsive">
   <div class="gallery">
@@ -27,12 +27,8 @@
     <div class="desc">3mm for kerf </div>
   </div>
 </div>
-<br>
-<br> 
-<br> 
-<p style='text-align: justify;'>
- Upload the saved dxf file onto LaserCAD software, then adjust the mode, speed and power for the cut. <br>
- <div class="responsive">
+
+<div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/31.jpg">
     <img src="img/LaserCadwink.jpg" alt="Forest" width="600" height="400">
@@ -67,9 +63,6 @@
     <div class="desc">Puzzle up </div>
   </div>
 </div>
-<br> <br>
-<br> 
-
 
 > Design Box for Laser cuting By [Augustin](AboutUs/Augy.md)
 <br>

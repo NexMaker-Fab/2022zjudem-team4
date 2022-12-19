@@ -9,7 +9,7 @@
 > [Winkee](CN/团队信息/Winke.md) 和 [Eric](CN/团队信息/AndryEric.md) 的方块设计
 
 <p style='text-align: justify;'>
- 使用AutoCAD software 进行设计，确保留空。
+ 使用AutoCAD software 进行设计，确保留空。 导入dxf file 到 LaserCAD software，调整切割数据。
 <br> 
 <div class="responsive">
   <div class="gallery">
@@ -28,12 +28,8 @@
     <div class="desc">3mm 留空 </div>
   </div>
 </div>
-<br>
-<br> 
-<br> 
-<p style='text-align: justify;'>
- 导入dxf file 到 LaserCAD software，调整切割数据。<br><br>
- <div class="responsive">
+
+<div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/32.jpg">
       <img src="img/LaserCadwink.jpg" alt="Forest" width="600" height="400">
@@ -68,9 +64,6 @@
     <div class="desc">拼在一起 </div>
   </div>
 </div>
-<br> <br>
-<br> 
-
 
 > [Augustin](CN/团队信息/Augy.md) 的盒子设计
 <br>
