@@ -1,6 +1,5 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 
-+ [我们的愿景](CN/团队信息/概念期望.md)
 - *🛠1. **日常作业***
    - [1. 建造网页界面](CN/网页)
      - [Web](CN/网页/WebDesigning.md)
@@ -15,11 +14,13 @@
    - [Model Assessment](CN/3D/3Dprinting.md)
    - [Final Results](CN/3D/postpros.md)
 - [5. Laser Cuting](CN/Fusion/laser.md)
--🛠 期末作业
-   - 主题
-   -🧠 创新
-   - 市场
-   - 设计方案
-   - 设计过程
-   - 发展可续性
--👥 联系我们 
+- [6. Processing](CN/Fusion/processing.md)
+-🛠 [期末作业](CN/期末作业/期末作业.md)
+   - [🧠 创新和发展可续性（SDG）](CN/期末作业/SDG创新.md)
+   - [产品市场](CN/期末作业/市场.md)
+   - [设计过程](CN/期末作业/设计和材料.md)
+   - [科技技术](CN/期末作业/科技问题.md)
+
+- 👥 [联系我们](CN/团队信息/contactUS.md)
+
+- [我们的愿景](CN/团队信息/概念期望.md)

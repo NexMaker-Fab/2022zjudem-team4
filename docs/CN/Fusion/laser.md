@@ -1,21 +1,21 @@
 # Laser Cuting
 
-> Zhejing University Logo Designed by Mohamed Khaled <br><br>
+> [Mohamed Khaled](CN/团队信息/khaled.md) 的浙江大学名牌<br><br>
 
 <img width=500 src="img/laser.png">
 <br><br>
 <br>
 
-> Basic cube puzzle designed by [Winkee](AboutUs/Winke.md) and [Eric](AboutUs/AndryEric.md)
+> [Winkee](CN/团队信息/Winke.md) 和 [Eric](CN/团队信息/AndryEric.md) 的方块设计
 
 <img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 
-> Design Box for Laser cuting By [Augustin](AboutUs/Augy.md)
+> [Augustin](CN/团队信息/Augy.md) 的盒子设计
 <br>
 <p class="p1">
-<b>Application </b>: <br>
-Cut after Engraving, <br>
-<span style= "color:red;" >Cut</span> </p1>
+<b>过程： </b>: <br>
+雕刻后切割 <br>
+<span style= "color:red;" >切割</span> </p1>
 <br>
 
 <div class="responsive">
@@ -46,12 +46,12 @@ Cut after Engraving, <br>
 <div class="clearfix"></div>
 
 
-> Laser Cut Mushaf Holder Koran Stand By [Peter](AboutUs/Peter.md) And [Abdiaziz](AboutUs/Mahir.md)
+> [Peter](CN/团队信息/Peter.md) And [Abdiaziz](CN/团队信息/Mahir.md) 的经书支撑架
 <br>
 <p class="p1">
-<b>Application </b>: <br>
-Cut after Engraving, <br>
-<span style= "color:red;" >Cut</span> </p1>
+<b>过程 </b>: <br>
+雕刻后切割 <br>
+<span style= "color:red;" >切割</span> </p1>
 <br>
 <div class="responsive">
   <div class="gallery">
@@ -79,7 +79,7 @@ Cut after Engraving, <br>
    <source src="movie.ogg" type="video/ogg">
 </video>
     </a>
-    <div class="desc">removing out the plate and sapport </div>
+    <div class="desc">拆除支撑</div>
   </div>
 </div>
 <div class="responsive">
@@ -87,7 +87,7 @@ Cut after Engraving, <br>
     <a target="_blank" href="img/31.jpg">
   <img width=500 src="img/mshf.jpg">
     </a>
-    <div class="desc">Wood Version</div>
+    <div class="desc">木制</div>
   </div>
 </div>
 
