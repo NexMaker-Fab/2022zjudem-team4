@@ -15,11 +15,11 @@
   - [Final Results](3D/postpros.md)
 - [5. Laser Cutting](Fusion/laser.md)
 - [6. Processing](Fusion/processing.md)
-- [🛠 Final project](FinalProject.md) 
-   - [🧠Innovation and SDG](SDGandInnovation.md)
-   - [Market](Market.md)
-   - [Material and Design](MaterialandDesign.md) 
-   - [Key Tech Analysis](KeyAnalysis.md)
+- [🛠 Final project](FinalProject/FinalProject.md) 
+   - [🧠Innovation and SDG](FinalProject/SDGandInnovation.md)
+   - [Market](FinalProject/Market.md)
+   - [Material and Design](FinalProject/MaterialandDesign.md) 
+   - [Key Tech Analysis](FinalProject/KeyAnalysis.md)
 
 - [👥Contact US](AboutUs/contactUS.md)
 

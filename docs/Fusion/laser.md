@@ -133,7 +133,7 @@ Cut after Engraving, <br>
    <source src="movie.ogg" type="video/ogg">
 </video>
     </a>
-    <div class="desc">removing out the plate and sapport </div>
+    <div class="desc">removing out the plate and support </div>
   </div>
 </div>
 <div class="responsive">
