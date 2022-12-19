@@ -22,18 +22,25 @@
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/31.jpg">
-    <img src="img/autoCADwink3" alt="Forest" width="600" height="400">
+    <img src="img/autoCADwink3.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">3mm for kerf </div>
   </div>
 </div>
 <br>
-<br> <br>
-<br> <br>
+<br> 
+<br> 
 <p style='text-align: justify;'>
- Upload the saved dxf file onto LaserCAD software, then adjust the mode, speed and power for the cut.
-<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
-<br>
+ Upload the saved dxf file onto LaserCAD software, then adjust the mode, speed and power for the cut. <br>
+ <div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/31.jpg">
+    <img src="img/LaserCadwink.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">LaserCAD </div>
+  </div>
+</div>
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/32.jpg">
@@ -61,8 +68,8 @@
   </div>
 </div>
 <br> <br>
-<br> <br>
-<br>
+<br> 
+
 
 > Design Box for Laser cuting By [Augustin](AboutUs/Augy.md)
 <br>

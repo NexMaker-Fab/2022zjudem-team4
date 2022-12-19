@@ -29,12 +29,19 @@
   </div>
 </div>
 <br>
-<br> <br>
-<br> <br>
-<p style='text-align: justify;'>
- 导入dxf file 到 LaserCAD software，调整切割数据。
-<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 <br> 
+<br> 
+<p style='text-align: justify;'>
+ 导入dxf file 到 LaserCAD software，调整切割数据。<br><br>
+ <div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/32.jpg">
+      <img src="img/LaserCadwink.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">LaserCAD </div>
+  </div>
+</div>
+ 
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/32.jpg">
@@ -62,8 +69,8 @@
   </div>
 </div>
 <br> <br>
-<br> <br>
-<br>
+<br> 
+
 
 > [Augustin](CN/团队信息/Augy.md) 的盒子设计
 <br>
