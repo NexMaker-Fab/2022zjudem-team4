@@ -37,7 +37,16 @@
     <div class="desc">LaserCAD </div>
   </div>
 </div>
- 
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/31.jpg">
+    <img src="img/LaserCadwink1.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">连接机器 </div>
+  </div>
+</div>
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/32.jpg">

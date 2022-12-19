@@ -39,6 +39,15 @@
 
 <div class="responsive">
   <div class="gallery">
+    <a target="_blank" href="img/31.jpg">
+    <img src="img/LaserCadwink1.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">Connect to Machine </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
     <a target="_blank" href="img/32.jpg">
       <img src="img/Cut1wink.jpg" alt="Forest" width="600" height="400">
     </a>
