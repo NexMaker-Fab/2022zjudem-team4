@@ -8,7 +8,59 @@
 
 > [Winkee](CN/团队信息/Winke.md) 和 [Eric](CN/团队信息/AndryEric.md) 的方块设计
 
-<img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<p style='text-align: justify;'>
+ 使用AutoCAD software 进行设计，确保留空。
+<br> 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/32.jpg">
+      <img src="img/autoCADwink2.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">AutoCAD </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/31.jpg">
+    <img src="img/autoCADwink3" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">3mm 留空 </div>
+  </div>
+</div>
+<br>
+<p style='text-align: justify;'>
+ 导入dxf file 到 LaserCAD software，调整切割数据。
+<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<br> 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/32.jpg">
+      <img src="img/Cut1wink.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">切割后 </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/32.jpg">
+      <img src="img/Cut2wink.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">除去后 </div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/31.jpg">
+    <img src="img/Cut3wink.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">拼在一起 </div>
+  </div>
+</div>
+<br> <br>
+<br>
 
 > [Augustin](CN/团队信息/Augy.md) 的盒子设计
 <br>
