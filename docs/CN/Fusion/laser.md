@@ -63,7 +63,9 @@
     </a>
     <div class="desc">拼在一起 </div>
   </div>
+ </div>
 </div>
+<div class="clearfix"></div>
 
 > [Augustin](CN/团队信息/Augy.md) 的盒子设计
 <br>

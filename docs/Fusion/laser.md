@@ -62,7 +62,9 @@
     </a>
     <div class="desc">Puzzle up </div>
   </div>
+ </div>
 </div>
+<div class="clearfix"></div>
 
 > Design Box for Laser cuting By [Augustin](AboutUs/Augy.md)
 <br>
