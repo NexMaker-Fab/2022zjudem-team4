@@ -8,31 +8,31 @@ Packaging often considered as an essential marketing strategy, in fact, the prim
 <div class="w3-third">
 <h4>Stage 1 : Material Confirmation</h4>
 <h5>By getting the topic decided, research and listing out material or component needed is the first step.</h5>
-<img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 </div>
 
 <div class="w3-third">
 <h4>Stage 2 : Test and trial with components</h4>
 <h5>Joining component, adding in coding and testing.</h5>
-<img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 </div>
 
 <div class="w3-third">
 <h4>Stage 3 : Designing packaging/cases</h4>
 <h5>Once the hardware is complete, casing designing is the next step.</h5>
-<img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 </div>
 
 <div class="w3-third">
 <h4>Stage 4 : Prototype</h4>
 <h5>Trying out prototype is needed to ensure the hardware is protected and working well.</h5>
-<img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 </div>
 
 <div class="w3-third">
 <h4>Stage 5 : Finalising Design</h4>
 <h5>Once the hardware is complete, casing designing is the next step.</h5>
-<img src="img/LaserCad%20wink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 </div>
 </div>
 <h3 align="left"><u>Fusion</u></h3>
