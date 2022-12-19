@@ -29,8 +29,8 @@
   </div>
 </div>
 <br>
-<br>
-<br>
+<br> <br>
+<br> <br>
 <p style='text-align: justify;'>
  导入dxf file 到 LaserCAD software，调整切割数据。
 <img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
@@ -64,6 +64,7 @@
 <br> <br>
 <br> <br>
 <br>
+
 > [Augustin](CN/团队信息/Augy.md) 的盒子设计
 <br>
 <p class="p1">

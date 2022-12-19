@@ -28,8 +28,8 @@
   </div>
 </div>
 <br>
-<br>
-<br>
+<br> <br>
+<br> <br>
 <p style='text-align: justify;'>
  Upload the saved dxf file onto LaserCAD software, then adjust the mode, speed and power for the cut.
 <img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
@@ -63,6 +63,7 @@
 <br> <br>
 <br> <br>
 <br>
+
 > Design Box for Laser cuting By [Augustin](AboutUs/Augy.md)
 <br>
 <p class="p1">
