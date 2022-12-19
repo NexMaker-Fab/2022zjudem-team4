@@ -1,6 +1,6 @@
 # Laser Cuting
 
-> Zhejing University Logo Designed by Mohamed Khaled <br><br>
+> Zhejing University Logo Designed by [Mohamed Khaled](AboutUs/Winke.md)<br><br>
 
 <img width=500 src="img/laser.png">
 <br><br>
