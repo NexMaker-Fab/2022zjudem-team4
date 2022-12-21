@@ -103,11 +103,6 @@ div.desc {
     margin: 6px 0;
   }
 }
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 60%;
-  }
-}
 .clearfix:after {
   content: "";
   display: table;

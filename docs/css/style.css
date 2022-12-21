@@ -197,3 +197,51 @@ div.gallery {
     margin-right: auto;
     width: 50%;
   }
+  div.gallery {
+    border: 1px solid #ccc;
+  }
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  div.desc {
+    padding: 5px;
+    text-align: center;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .responsive {
+    padding: 7px;
+    float: left;
+    width: 49.99999%;
+  }
+  @media only screen and (max-width: 900px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 10px 0;
+    }
+  }
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  a:link {
+    color: lightCoral;
+  }
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  /* mouse over link */
+  a:hover {
+    color: FFEBC;
+  }
+  /* selected link */
+  a:active {
+    color: blue;
+  }

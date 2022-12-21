@@ -27,7 +27,8 @@
     <div class="desc">3mm for kerf </div>
   </div>
 </div>
-
+<div class="clearfix"></div>
+<br>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/LaserCadwink.jpg">
@@ -45,7 +46,8 @@
     <div class="desc">Connect to Machine </div>
   </div>
 </div>
-
+<div class="clearfix"></div>
+<br>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/Cut1wink.jpg">
@@ -63,7 +65,8 @@
     <div class="desc">Lasercut Pieces </div>
   </div>
 </div>
-
+<div class="clearfix"></div>
+<br>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/Cut3wink.jpg">
@@ -72,8 +75,9 @@
     <div class="desc">Puzzle up </div>
   </div>
  </div>
-</div>
+
 <div class="clearfix"></div>
+<br>
 
 > Design Box for Laser cuting By [Augustin](AboutUs/Augy.md)
 <br>
@@ -82,24 +86,6 @@
 Cut after Engraving, <br>
 <span style= "color:red;" >Cut</span> </p1>
 <br>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img/laserUgy.png">
-      <img src="img/laserUgy.png" alt="Forest" width="600" height="600">
-    </a>
-    <div class="desc">Laser Cuting </div>
-  </div>
-</div>
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img/Augls.jpg">
-      <img src="img/Augls.jpg" alt="Forest" width="600" height="400">
-    </a>
-    <div class="desc">Laser Cuting </div>
-  </div>
-</div>
-
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/augls2.jpg">
@@ -108,8 +94,25 @@ Cut after Engraving, <br>
     <div class="desc">38 mm Laser cut Output </div>
   </div>
 </div>
-<div class="clearfix"></div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/Augls.jpg">
+      <img src="img/Augls.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">Laser Cuting </div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img/laserUgy.png">
+      <img src="img/laserUgy.png" alt="Forest" width="800" height="600">
+    </a>
+    <div class="desc">Laser Cuting </div>
+  </div>
+</div>
+<div class="clearfix"></div>
+<br>
 
 > Laser Cut Mushaf Holder Koran Stand By [Peter](AboutUs/Peter.md) And [Abdiaziz](AboutUs/Mahir.md)
 <br>
@@ -135,7 +138,8 @@ Cut after Engraving, <br>
     <div class="desc">38 mm Laser cut Output </div>
   </div>
 </div>
-
+<div class="clearfix"></div>
+<br>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="img/lasermushaf.png">
@@ -155,8 +159,7 @@ Cut after Engraving, <br>
     <div class="desc">Wood Version</div>
   </div>
 </div>
-
 <div class="clearfix"></div>
-
 <br>
+
 
