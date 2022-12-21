@@ -12,7 +12,7 @@
 <br> 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/32.jpg">
+    <a target="_blank" href="img/autoCADwink2.jpg">
       <img src="img/autoCADwink2.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">AutoCAD </div>
@@ -21,7 +21,7 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/31.jpg">
+    <a target="_blank" href="img/autoCADwink3.jpg">
     <img src="img/autoCADwink3.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">3mm for kerf </div>
@@ -30,7 +30,7 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/31.jpg">
+    <a target="_blank" href="img/LaserCadwink.jpg">
     <img src="img/LaserCadwink.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">LaserCAD </div>
@@ -39,7 +39,7 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/31.jpg">
+    <a target="_blank" href="img/LaserCadwink1.jpg">
     <img src="img/LaserCadwink1.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Connect to Machine </div>
@@ -48,7 +48,7 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/32.jpg">
+    <a target="_blank" href="img/Cut1wink.jpg">
       <img src="img/Cut1wink.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Lasercut Pieces </div>
@@ -57,7 +57,7 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/32.jpg">
+    <a target="_blank" href="img/Cut2wink.jpg">
       <img src="img/Cut2wink.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Lasercut Pieces </div>
@@ -66,7 +66,7 @@
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/31.jpg">
+    <a target="_blank" href="img/Cut3wink.jpg">
     <img src="img/Cut3wink.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Puzzle up </div>
@@ -85,7 +85,7 @@ Cut after Engraving, <br>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/32.jpg">
+    <a target="_blank" href="img/laserUgy.png">
       <img src="img/laserUgy.png" alt="Forest" width="600" height="600">
     </a>
     <div class="desc">Laser Cuting </div>
@@ -93,7 +93,7 @@ Cut after Engraving, <br>
 </div>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/32.jpg">
+    <a target="_blank" href="img/Augls.jpg">
       <img src="img/Augls.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Laser Cuting </div>
@@ -102,7 +102,7 @@ Cut after Engraving, <br>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/31.jpg">
+    <a target="_blank" href="img/augls2.jpg">
     <img src="img/augls2.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">38 mm Laser cut Output </div>
@@ -120,7 +120,7 @@ Cut after Engraving, <br>
 <br>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/32.jpg">
+    <a target="_blank" href="img/lasermushaf.png">
       <img src="img/lasermushaf.png" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Laser Cuting </div>
@@ -129,7 +129,7 @@ Cut after Engraving, <br>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/31.jpg">
+    <a target="_blank" href="img/mus.jpg">
     <img src="img/mus.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">38 mm Laser cut Output </div>
@@ -138,7 +138,7 @@ Cut after Engraving, <br>
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/33.jpg">
+    <a target="_blank" href="img/lasermushaf.png">
    <video width="320" height="240" poster="img/lasermushaf.png" controls>
    <source src="img/lasercutmusfah.mp4" type="video/mp4">
    <source src="movie.ogg" type="video/ogg">
@@ -149,7 +149,7 @@ Cut after Engraving, <br>
 </div>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="img/31.jpg">
+    <a target="_blank" href="img/mshf.jpg">
   <img width=500 src="img/mshf.jpg">
     </a>
     <div class="desc">Wood Version</div>
