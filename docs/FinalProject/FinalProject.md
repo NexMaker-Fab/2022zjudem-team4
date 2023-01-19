@@ -1,4 +1,4 @@
-<h1 style="font-size:5vw; text-align:center" >SMART LOCKER<h1>
+<!-- <h1 style="font-size:5vw; text-align:center" >SMART LOCKER<h1>
 <h4>The project is first designed in Fusion 360, then sent to a Flashforge 3D printer (Guider II series) where it is printed using PLA -that is the material-. Some metal parts will need to be 3D printed.<br>The motor, battery, Arduino Uno and different components used for the project are provided in the Arduino Beginners's Kit.
 However, our project will need to use an Arduino Nano IOT, as the one in the kit is way too large and neither features bluetooth or an internet connection.The battery also is way too large and the final project will require a smaller battery.</h4> 
 
@@ -43,7 +43,49 @@ All of those features  make our backpack a "must have backpack" in the industry 
 
 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43fec32ea03667fe3c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+-->
 
+<h3 style="font-size:4vw; text-align:center" >The Final Project </h3>
+<h2 style="font-size:5vw; text-align:center">Water Quality analysis via IOT </h2>
+<p class="p1" style="text-align:justify">The goal of this project is to learn how to monitor water quality, including the volume of water, the temperature of the water and its surroundings, the turbidity (or degree of cleanliness) of the water, and the PH levels of the water. So this system monitors all of these aspects, and when all of the checks are finished, it sends the findings or data as an alert to alert the authorized employees.</p>
 
-<h3 style="font-size:4vw; text-align:center" >Second Final Project <h1>
-<h2 style="font-size:5vw; text-align:center">Water Quality analysis via IOT <h2>
+<p class="p2" style="font-size :1.1rem; text-align:left"> <b>Step 1: Components Needed </b></p>
+
+<p class="p2" style="text-align:justify">
+You must acquire these certain kinds of equipment in order to finish this project. <br>
+
+1. The Arduino Mega.<br>
+
+2. LCD display (16 * 2).<br>
+
+3. The temperature and PH sensor in one.<br>
+
+4. The Turbidity Sensor <br>
+
+5. A GSM protection shield.<br>
+
+6. an ultrasonic sensor.<br>
+
+7. RGB leds.<br>
+
+8. A buzzer <br></p>
+
+<!-- <img width="300" hight=300 src="img/grph.avif">
+<br>
+
+<img width="300" height=300 src="img/sch.avif"> -->
+<p class="p2" style="font-size :1.1rem; text-align:left"> <b> Step 2: Graphical View and Circuit Diagram </b> </p>
+
+<div class="w3-content" style="max-width:800px">
+  <img class="mySlides" src="img/grph.png" style="width:100%">
+  <img class="mySlides" src="img/sch.png" style="width:100%">
+</div>
+
+<div class="w3-center">
+  <div class="w3-section">
+    <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">❮ Prev</button>
+    <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next ❯</button>
+  </div>
+  <button class="w3-button demo" onclick="currentDiv(1)">1</button> 
+  <button class="w3-button demo" onclick="currentDiv(2)">2</button> 
+</div>

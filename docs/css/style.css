@@ -177,11 +177,14 @@ div.gallery {
     font-family: Georgia, serif;
     font-size: 46px;  
   }
+  .p1::first-letter {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 3rem;
+    font-weight: bold;
+    color: brown;
+}
   p{
     font-size: 1.4em;
-  }
-  .p1 {
-    font-family: "Times New Roman", Times, serif;
   }
   
   .p2 {
@@ -245,3 +248,4 @@ div.gallery {
   a:active {
     color: blue;
   }
+  
