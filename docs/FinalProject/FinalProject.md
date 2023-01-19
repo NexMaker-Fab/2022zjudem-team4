@@ -76,16 +76,34 @@ You must acquire these certain kinds of equipment in order to finish this projec
 <img width="300" height=300 src="img/sch.avif"> -->
 <p class="p2" style="font-size :1.1rem; text-align:left"> <b> Step 2: Graphical View and Circuit Diagram </b> </p>
 
-<div class="w3-content" style="max-width:800px">
+<!-- <div class="w3-content w3-display-container" style="max-width:800px">
   <img class="mySlides" src="img/grph.png" style="width:100%">
   <img class="mySlides" src="img/sch.png" style="width:100%">
+  <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+    <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
+    <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+  </div>
+</div> -->
+<div class="w3-content w3-display-container">
+
+<div class="w3-display-container mySlides">
+  <img src="img/grph.png" style="width:100%">
+  <div class="w3-display-topmiddle w3-large w3-container w3-padding-16 w3-black">
+    Graphical View
+  </div>
 </div>
 
-<div class="w3-center">
-  <div class="w3-section">
-    <button class="w3-button w3-light-grey" onclick="plusDivs(-1)">❮ Prev</button>
-    <button class="w3-button w3-light-grey" onclick="plusDivs(1)">Next ❯</button>
+<div class="w3-display-container mySlides">
+  <img src="img/sch.png" style="width:100%">
+  <div class="w3-display-bottommiddle w3-large w3-container w3-padding-16 w3-black">
+    Circuit Diagram
   </div>
-  <button class="w3-button demo" onclick="currentDiv(1)">1</button> 
-  <button class="w3-button demo" onclick="currentDiv(2)">2</button> 
+</div>
+
+
+<button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
+
 </div>
