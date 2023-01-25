@@ -86,7 +86,7 @@ You must acquire these certain kinds of equipment in order to finish this projec
     <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
   </div>
 </div> -->
-<div class="w3-content w3-display-container">
+<!-- <div class="w3-content w3-display-container">
 
 <div class="w3-display-container mySlides">
   <img src="img/grph.png" style="width:100%">
@@ -106,4 +106,169 @@ You must acquire these certain kinds of equipment in order to finish this projec
 <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
 
+</div> -->
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 2</div>
+  <img src="img/grph.png" style="width:100%">
+  <div class="text">Graphical View</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 2</div>
+  <img src="img/sch.png" style="width:100%">
+  <div class="text">Circuit Diagram</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+<p class="p2" style="font-size :1.1rem; text-align:left"> <b> Step 3: Project  </b> </p>
+
+<p class="p2" style="font-size :1.1rem; text-align:left">In this project, we will determine if the water is drinkable or not, as well as the percentage of cleanest and the temperature of the water, whether hot or cold. </p>
+<img src="img/imgproj/FP1.jpg" style="width:90%; Height:50%">
+
+<p class="p2" style="font-size :1.1rem; text-align:left"> <b> Step 4: First Stage Analaysis </b> </p>
+
+<p class="p2" style="font-size :1.1rem; text-align:left">To determine if the water is pure or not, we shall use a PH meter. </p>
+
+<!-- <img src="img/imgproj/FP3Ph1.jpg" style="width:90%; Height:50%">
+
+<img src="img/imgproj/FP13PhS.jpg" style="width:90%; Height:50%">
+
+<img src="img/imgproj/FP4Ph2.jpg" style="width:90%; Height:50%"> -->
+
+<!-- Container for the image gallery -->
+
+<div style="text-align:center">
+  <h2>Tabbed Image Gallery</h2>
+  <p>Click on the images below:</p>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="img/imgproj/FP3Ph1.jpg" alt="PH Reading" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="img/imgproj/FP13PhS.jpg" alt="Safe for Drinking" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="img/imgproj/FP4Ph2.jpg" alt="Has more Alkaine" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="img/imgproj/FP4Ph2.jpg" alt="Has more Acid can`t drink" style="width:100%" onclick="myFunction(this);">
+  </div>
+</div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImg" style="width:100%">
+  <div id="imgtext"></div>
+</div>
+
+<p class="p2" style="font-size :1.1rem; text-align:left">In addition, we'll measure the temperature outdoors and in the water. </p>
+
+<!-- <img src="img/imgproj/FPT1.jpg" style="width:90%; Height:50%">
+
+<img src="img/imgproj/FP6Tsr1.jpg" style="width:90%; Height:50%">
+
+<img src="img/imgproj/FP7wTn.jpg" style="width:90%; Height:50%">
+<img src="img/imgproj/FP11wTH.jpg" style="width:90%; Height:50%"> -->
+
+<div style="text-align:center">
+  <h2>Tabbed Image Gallery</h2>
+  <p>Click on the images below:</p>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="img/imgproj/FPT1.jpg" alt="Temperature Reading" style="width:100%" onclick="myFunction1(this);">
+  </div>
+    
+  <div class="column">
+    <img src="img/imgproj/FP6Tsr1.jpg" alt="Outdoor Temperature" style="width:100%" onclick="myFunction1(this);">
+  </div>
+  <div class="column">
+    <img src="img/imgproj/FP7wTn.jpg" alt="Water Temperature Normal " style="width:100%" onclick="myFunction1(this);">
+  </div>
+  <div class="column">
+    <img src="img/imgproj/FP11wTH.jpg" alt="Water Temperature is High" style="width:100%" onclick="myFunction1(this);">
+  </div>
+</div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImgs" style="width:100%">
+  <div id="imgtexts"></div>
+</div>
+
+
+<p class="p2" style="font-size :1.1rem; text-align:left">Moreover, we examine the water level at low, high, or moderate levels. </p>
+
+<!-- <img src="img/imgproj/FP8WL1.jpg" style="width:90%; Height:50%">
+
+<img src="img/imgproj/FP12wLH.jpg" style="width:90%; Height:50%"> -->
+
+<div style="text-align:center">
+  <h2>Tabbed Image Gallery</h2>
+  <p>Click on the images below:</p>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="img/imgproj/FP8WL1.jpg" alt="Water Level is Low" style="width:100%" onclick="myFunction2(this);">
+  </div>
+    
+  <div class="column">
+    <img src="img/imgproj/FP12wLH.jpg" alt="Water Lavel is High" style="width:100%" onclick="myFunction2(this);">
+  </div>
+  </div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImgs1" style="width:100%">
+  <div id="imgtexts1"></div>
+</div>
+
+
+<p class="p2" style="font-size :1.1rem; text-align:left">In addition, we will assess if the water is pure enough to drink or is polluted. </p>
+
+<!-- <img src="img/imgproj/FP9Trp1.jpg" style="width:90%; Height:50%">
+
+<img src="img/imgproj/FP10Tdr1.jpg" style="width:90%; Height:50%">
+
+<img src="img/imgproj/FP14Tcln.jpg" style="width:90%; Height:50%"> -->
+
+<div style="text-align:center">
+  <h2>Tabbed Image Gallery</h2>
+  <p>Click on the images below:</p>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="img/imgproj/FP9Trp1.jpg" alt="Water Quality checking" style="width:100%" onclick="myFunction3(this);">
+  </div>
+    
+  <div class="column">
+    <img src="img/imgproj/FP10Tdr1.jpg" alt="Very Dirty" style="width:100%" onclick="myFunction3(this);">
+  </div>
+  <div class="column">
+    <img src="img/imgproj/FP14Tcln.jpg" alt="Safe and Clean " style="width:100%" onclick="myFunction3(this);">
+  </div>
+</div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImgs2" style="width:100%">
+  <div id="imgtexts2"></div>
 </div>

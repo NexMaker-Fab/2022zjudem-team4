@@ -151,6 +151,7 @@ Then insert <mark>script</mark> into document just like the [official plugins's]
 ```html
 <!-- plugins -->
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
 ```
 
 ### Navbar
