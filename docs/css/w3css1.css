@@ -40,7 +40,7 @@
   /* Expanding image text */
   #imgtext {
     position: absolute;
-    align :center;
+    text-align: center;
     bottom: 15px;
     left: 15px;
     color: white;
