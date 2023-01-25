@@ -263,7 +263,7 @@ You must acquire these certain kinds of equipment in order to finish this projec
     <img src="img/imgproj/FP10Tdr1.jpg" alt="Very Dirty" style="width:100%" onclick="myFunction3(this);">
   </div>
   <div class="column">
-    <img src="img/imgproj/FP14Tcln.jpg" alt="Safe and Clean " style="width:100%" onclick="myFunction3(this);">
+    <img src="img/imgproj/FP14TCln.jpg" alt="Safe and Clean " style="width:100%" onclick="myFunction3(this);">
   </div>
 </div>
 
