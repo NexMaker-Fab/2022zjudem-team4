@@ -116,3 +116,16 @@ body{
       border-radius: 30px;
       overflow: hidden;
   }
+
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* set the height to fill the viewport */
+  }
+  
+  video {
+    max-width: 100%; /* make the video responsive */
+    max-height: 100%;
+  }
+  
