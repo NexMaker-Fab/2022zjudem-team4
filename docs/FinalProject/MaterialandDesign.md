@@ -8,43 +8,39 @@ Packaging often considered as an essential marketing strategy, in fact, the prim
 <div class="w3-third">
 <h4>Stage 1 : Material Confirmation</h4>
 <h5>By getting the topic decided, research and listing out material or component needed is the first step.</h5>
-<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<img src="img/M.Confirmation.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 </div>
 
 <div class="w3-third">
-<h4>Stage 2 : Test and trial with components</h4>
-<h5>Joining component, adding in coding and testing.</h5>
-<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<h4>Stage 2 : Measuring and arranging components</h4>
+<h5>After the coding for component, measuring the size and arranging the placement of the component.</h5>
+<img src="img/Arrangement.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 </div>
 
 <div class="w3-third">
 <h4>Stage 3 : Designing packaging/cases</h4>
-<h5>Once the hardware is complete, casing designing is the next step.</h5>
-<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<h5>Once the arrangement is complete, casing designing is the next step. </h5>
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43726cdaf4cf20a706?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 </div>
 
 <div class="w3-third">
 <h4>Stage 4 : Prototype</h4>
-<h5>Trying out prototype is needed to ensure the hardware is protected and working well.</h5>
-<img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<h5>3D printing out prototype is for trial purpose.</h5>
+<img src="img/Prototype1.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 </div>
 
 <div class="w3-third">
-<h4>Stage 5 : Finalising Design</h4>
-<h5>Once the hardware is complete, casing designing is the next step.</h5>
+<h4>Stage 5 : Test and Trial</h4>
+<h5>Trying out prototype is needed to ensure the hardware is protected and working well, while fixing problem.</h5>
+<img src="img/Prototype2.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<img src="img/Prototype3.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<img src="img/Prototype4.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+<img src="img/Prototype5.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
+</div>
+
+<div class="w3-third">
+<h4>Stage 6 : Finalising Design</h4>
+<h5>Once the trial is success, combining with the component hardware is the next step.</h5>
 <img src="img/LaserCadwink.jpg" alt="LaserCAD" width="840" height="480"/> </a> </p>
 </div>
 </div>
-<h3 align="left"><u>Fusion</u></h3>
-
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43ff097bc88ba3976d?mode=embed" width="320" height="240" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
-
-
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e434ee238de81b296bb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
-
-
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43fec32ea03667fe3c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
-
-
-<h3 style="font-size:4vw; text-align:center" >Second Final Project <h1>
-<h2 style="font-size:5vw; text-align:center">Water Quality analysis via IOT <h2>
