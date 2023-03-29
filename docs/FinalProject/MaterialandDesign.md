@@ -22,7 +22,8 @@ Packaging often considered as an essential marketing strategy, in fact, the prim
 <h5>Once the arrangement is complete, casing designing is the next step. </h5>
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43726cdaf4cf20a706?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 </div>
-
+</div>
+<div class="w3-row-padding">
 <div class="w3-third">
 <h4>Stage 4 : Prototype</h4>
 <h5>3D printing out prototype is for trial purpose.</h5>
@@ -30,19 +31,38 @@ Packaging often considered as an essential marketing strategy, in fact, the prim
 </div>
 
 <div class="w3-third">
-<h4>Stage 5 : Test and Trial</h4>
+<h4>Stage 6 : Test and Trial</h4>
 <h5>Trying out prototype is needed to ensure the hardware is protected and working well, while fixing problem.</h5>
 <img src="img/Prototype2.jpg" alt="Prototype2" width="840" height="480"/> </a> </p>
+</div>
+<div class="w3-third">
+<h4>Stage 7 : Test and Trial</h4>
+<h5>Trying out prototype is needed to ensure the hardware is protected and working well, while fixing problem.</h5>
 <img src="img/Prototype3.jpg" alt="Prototype3" width="840" height="480"/> </a> </p>
+</div>
+</div>
+<div class="w3-row-padding">
+<div class="w3-third">
+<h4>Stage 8 : Test and Trial</h4>
+<h5>Trying out prototype is needed to ensure the hardware is protected and working well, while fixing problem.</h5>
 <img src="img/Prototype4.jpg" alt="Prototype4" width="840" height="480"/> </a> </p>
+</div>
+<div class="w3-third">
+<h4>Stage 9 : Test and Trial</h4>
+<h5>Trying out prototype is needed to ensure the hardware is protected and working well, while fixing problem.</h5>
 <img src="img/Prototype5.jpg" alt="Prototype5" width="840" height="480"/> </a> </p>
 </div>
 
 <div class="w3-third">
-<h4>Stage 6 : Finalising Design</h4>
+<h4>Stage 10 : Finalising Design</h4>
 <h5>Once the trial is success, combining with the component hardware is the next step.</h5>
-<img src="img/LaserCadwink.jpg" alt="Final1" width="840" height="480"/> </a> </p>
 <img src="img/LaserCadwink.jpg" alt="Final2" width="840" height="480"/> </a> </p>
+</div>
+</div>
+<div class="w3-row-padding">
+<div class="w3-third">
+<h4>Stage 11 : Finalising Design</h4>
+<h5>Once the trial is success, combining with the component hardware is the next step.
 <img src="img/LaserCadwink.jpg" alt="Final3" width="840" height="480"/> </a> </p>
 </div>
 </div>

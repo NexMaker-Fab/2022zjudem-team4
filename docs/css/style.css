@@ -249,4 +249,11 @@ div.gallery {
     color: blue;
   }
   
- 
+  .imgDes {
+    margin-left: 180px;
+    overflow: hidden;
+    text-align: left;
+  }
+  .imgDes p {
+    text-align: right;
+  }
