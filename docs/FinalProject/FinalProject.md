@@ -45,16 +45,22 @@ All of those features  make our backpack a "must have backpack" in the industry 
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43fec32ea03667fe3c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 -->
 
-<h3 style="font-size:4vw; text-align:center" >The Final Project </h3>
-<h2 style="font-size:5vw; text-align:center">Water Quality analysis via IOT </h2>
+<h3 style="font-size:4vw; text-align:center" >The Final Project </h3><br>
+
+<h4 style="font-size:2.2vw; text-align:center" >What is Water Monitoring? </h4>
+
+<p class="p2" style="font-size :1.1rem; text-align:Justify"> Water monitoring is how information is gathered about the condition and quality of rivers, lakes, estuaries and coastal waters. The process measures if these waters are safe for drinking, fishing from or swimming in. Simply put, it’s a cost-effective and efficient system designed to monitor the quality of water using IoT (Internet of Things). The data obtained is transferred to the cloud through <a href=https://riverwatchsolutions.com/solution/iot-water-monitoring-device>IoT technology</a>. </p>
+
+<h2 style="font-size:3vw; text-align:center">Water Quality analysis via IOT </h2>
 <p class="p1" style="text-align:justify">The goal of this project is to learn how to monitor water quality, including the volume of water, the temperature of the water and its surroundings, the turbidity (or degree of cleanliness) of the water, and the PH levels of the water. So this system monitors all of these aspects, and when all of the checks are finished, it sends the findings or data as an alert to alert the authorized employees.</p>
 
 <p class="p2" style="font-size :1.1rem; text-align:left"> <b>Step 1: Components Needed </b></p>
 
 <p class="p2" style="text-align:justify">
-You must acquire these certain kinds of equipment in order to finish this project. <br>
+You must acquire these certain kinds of equipment in order to finish this project. </p> <br>
+<h4> HARDWARE </h4> 
 
-1. The Arduino Mega.<br>
+1. NodeMcU ESP8266.<br>
 
 2. LCD display (16 * 2).<br>
 
@@ -68,7 +74,13 @@ You must acquire these certain kinds of equipment in order to finish this projec
 
 7. RGB leds.<br>
 
-8. A buzzer <br></p>
+8. A buzzer <br>
+
+<h4> SOFTWARE </h4>
+
+- <a href="https://ny3.blynk.cloud/">Blynk cloud </a><br>
+- Bylnk IOT for Phone <br>
+- <a href="https://www.arduino.cc/en/software">Arduino IDE </a> <br>
 
 <!-- <img width="300" hight=300 src="img/grph.avif">
 <br>
