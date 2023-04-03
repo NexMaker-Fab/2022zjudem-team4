@@ -163,7 +163,7 @@ You must acquire these certain kinds of equipment in order to finish this projec
 <!-- Container for the image gallery -->
 
 <div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
+  <h2>PH LEVEL</h2>
   <p>Click on the images below:</p>
 </div>
 
@@ -178,7 +178,7 @@ You must acquire these certain kinds of equipment in order to finish this projec
     <img src="img/imgproj/FP4Ph2.jpg" alt="Has more Alkaine" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="img/imgproj/FP4Ph2.jpg" alt="Has more Acid can`t drink" style="width:100%" onclick="myFunction(this);">
+    <img src="img/imgproj/FP4Ph3.jpg" alt="Has more Acid can`t drink" style="width:200%" onclick="myFunction(this);">
   </div>
 </div>
 
@@ -198,7 +198,7 @@ You must acquire these certain kinds of equipment in order to finish this projec
 <img src="img/imgproj/FP11wTH.jpg" style="width:90%; Height:50%"> -->
 
 <div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
+  <h2>TEMPERATURE MONITOR</h2>
   <p>Click on the images below:</p>
 </div>
 
@@ -232,7 +232,7 @@ You must acquire these certain kinds of equipment in order to finish this projec
 <img src="img/imgproj/FP12wLH.jpg" style="width:90%; Height:50%"> -->
 
 <div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
+  <h2>WATER LEVEL</h2>
   <p>Click on the images below:</p>
 </div>
 
@@ -262,7 +262,7 @@ You must acquire these certain kinds of equipment in order to finish this projec
 <img src="img/imgproj/FP14Tcln.jpg" style="width:90%; Height:50%"> -->
 
 <div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
+  <h2>WATER QUALITY</h2>
   <p>Click on the images below:</p>
 </div>
 

@@ -72,4 +72,5 @@ Everything you need to design and manage connected hardware: device provisioning
 
 The Blynk platform is used by low-volume producers of smart home items, complicated HVAC systems, agricultural equipment, and everything in between. These businesses create branded applications without coding and receive complete back-end IoT infrastructure with a single subscription. </p>
 
+
 ‍
