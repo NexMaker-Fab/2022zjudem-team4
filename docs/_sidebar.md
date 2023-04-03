@@ -25,3 +25,4 @@
 - [👥Contact US](AboutUs/contactUS.md)
 
 - [👀 OUR VISION](AboutUs/newvision.md)
+- [About US](AboutUs/TeamIntro.md)

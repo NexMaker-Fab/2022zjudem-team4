@@ -1,17 +1,17 @@
-<h1 align="center"> Here our Team Members Profile </h1>
+<h1 align="center"> Here Here </h1>
 
-
-
-<div class="row text-center">
-   <h1 align ="Center"> MEET <br> THE TEAM </h1>
- </div>
+<div class="demo">
+        <div class="container">
+            <div class="row text-center">
+               <h1 align ="Center"> MEET <br> THE TEAM </h1>
+            </div>
 
 <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
-                            <div class="pic">
+                        <div class="pic">
                             <img src="img/Augy.jpg">
-                             </div>
+                        </div>
                         <div class="team-content">
                             <h3 class="title">UGWUEKE CHIDUBEM EMMANUEL </h3>
                             <p style="text-align:left;">
@@ -77,11 +77,7 @@
                     </div>
                 </div>
             </div>
-            </div>
-             </div>
-
-
-<div class="row">
+            <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
@@ -151,9 +147,7 @@
                     </div>
                 </div>
             </div>
-    
-
- <div class="row">
+            <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="our-team">
                         <div class="pic">
