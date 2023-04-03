@@ -23,6 +23,7 @@ Packaging often considered as an essential marketing strategy, in fact, the prim
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43726cdaf4cf20a706?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 </div>
 </div>
+
 <div class="w3-row-padding">
 <div class="w3-third">
 <h4>Stage 4 : Prototype</h4>
@@ -64,5 +65,10 @@ Packaging often considered as an essential marketing strategy, in fact, the prim
 <h4>Stage 10 : Finalising Design</h4>
 <h5>Once the trial is success, combining with the component hardware is the next step.
 <img src="img/Final.jpg" alt="Final3" width="840" height="480"/> </a> </p>
+</div>
+<div class="w3-third">
+<h4>Stage 10 : Finalising Design</h4>
+<h5>Once the trial is success, combining with the component hardware is the next step.
+<img src="img/imgproj/fff.jpg" alt="Final3" width="840" height="480"/> </a> </p>
 </div>
 </div>

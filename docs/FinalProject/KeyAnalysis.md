@@ -68,11 +68,34 @@ Our system provides an easier and smarter way to gather water data.
 <h4 style="text-align:justify;"><a href="https://blynk.io/"> Blynk</a></h4>
 <h5>A fully integrated suite of IoT software</h5>
 <p class="p2" style="font-size :1.1rem; text-align:Justify" >
-Everything you need to design and manage connected hardware: device provisioning, sensor data visualization, remote control with mobile and web applications, Over-The-Air firmware upgrades, secure cloud, data analytics, user and access management, alarms, automations, and much more...
-
+Everything you need to design and manage connected hardware: device provisioning, sensor data visualization, remote control with mobile and web applications, Over-The-Air firmware upgrades, secure cloud, data analytics, user and access management, alarms, automations, and much more... </p>
+<p class="p2" style="font-size :1.1rem; text-align:Justify" >
 The Blynk platform is used by low-volume producers of smart home items, complicated HVAC systems, agricultural equipment, and everything in between. These businesses create branded applications without coding and receive complete back-end IoT infrastructure with a single subscription. </p>
 
 <img align="center" src="img\bl1.png" alt="box" width="100%" class="center">
+<br>
+<br>
+<div class="w3-row-padding">
+<div class="w3-third">
+<h4>Testing Project</h4>
 
+<div class="video-container">
 
+  <video style="align:center" width="100%" height="240" poster="img/bl1.png" controls>
+   <source src="img/imgproj/4.mp4" type="video/mp4">
+   <source src="movie.ogg" type="video/ogg">
+</video>
+</div>
+</div>
+
+<div class="w3-third">
+<h4>alarm For Water Qaulity</h4>
+<div class="video-container">
+  <video style="align:center" width="580" height="240" poster="img/bl1.png" controls>
+   <source src="img/imgproj/tln.mp4" type="video/mp4">
+   <source src="movie.ogg" type="video/ogg">
+</video>
+</div>
+</div>
+</div>
 ‍
